@@ -1,0 +1,501 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+france,,i8wfObuUvUL9MFihGHE1twEi5zAX,hospital & health care,linkedin.com/company/accolab-sud-ouest,lesparre-médoc,accolab sud-ouest,nouvelle-aquitaine,51-200,accolabsudouest.com
+france,,Q3nLx42QDCNIMAepqwieOwEkz5ly,hospital & health care,linkedin.com/company/sarl-ambulances-sigaud-laury,pont-de-salars,sarl ambulances sigaud-laury,occitanie,1-10,
+france,2010,nU9MOwSyYApJCLNT2uM7DQbKg6UZ,hospital & health care,linkedin.com/company/boat-criavs-lr,montpellier,boat criavs-lr,occitanie,1-10,
+france,,btqTFCdVC5EDJ8XNypFCnQTSFSBb,hospital & health care,linkedin.com/company/bio-67---bio-sphere,strasbourg,bio 67 - bio sphere,grand est,201-500,
+france,1731,fY1oOJ15WjCO9O9aKn2Xiwlt4uBK,hospital & health care,linkedin.com/company/centre-hospitalier-de-rambouillet,rambouillet,centre hospitalier de rambouillet,île-de-france,501-1000,ch-rambouillet.fr
+france,,NkKOUHi7vqqfOICTaT4gCglfZ6IS,hospital & health care,linkedin.com/company/grillot-perazzi-charlotte,chenôve,grillot perazzi charlotte,bourgogne-franche-comté,1-10,
+france,,LMRlfSaQ5NYIPznHXy0rfQ2kdG60,hospital & health care,linkedin.com/company/ambulances-la-lespignanaise,lespignan,ambulances la lespignanaise,occitanie,1-10,
+france,,hG4Peyq4LnuIBggsxyhERAc2gT2A,hospital & health care,linkedin.com/company/piquet-marie,la penne-sur-huveaune,piquet marie,provence-alpes-côte d'azur,1-10,
+france,2018,x4csWI66ws3Pi4USm1fThgnb3N5e,hospital & health care,linkedin.com/company/had-inicea-clermont-ferrand,clermont-ferrand,had inicea clermont-ferrand,auvergne-rhone-alpes,11-50,
+france,,PsMPVmwIxlf0vlVedGdFvgadFkoP,hospital & health care,linkedin.com/company/dangel-guillaume,rue neuve,dangel guillaume,île-de-france,1-10,
+france,,RxiOmsXp4B54vGHMIEJRzAmY0XJl,hospital & health care,linkedin.com/company/famille-d'accueil-pour-personnes-âgées-en-charente,soyaux,famille d'accueil pour personnes âgées en charente,nouvelle-aquitaine,1-10,familledaccueilcharente.fr
+france,,iz9AFzIATVpBn7kybEgN6AKxpoIr,hospital & health care,linkedin.com/company/résidence-roseraie,viry-châtillon,résidence roseraie,île-de-france,1-10,residenceroseraie.com
+france,,hf60DcYvzCgfbQUhhUom3gdVsyRY,hospital & health care,linkedin.com/company/polyclinique-des-trois-frontie-res,saint-louis,polyclinique des trois frontie res,grand est,1-10,
+france,,Yflys6sfk9sOBIhX1XBfGQ4Dsf1i,hospital & health care,linkedin.com/company/omnium-d'ambulances,six-fours-les-plages,omnium  d'ambulances,provence-alpes-côte d'azur,1-10,
+france,,BPOm3wBnIqT0Z1XZW1tdmAv634EM,hospital & health care,linkedin.com/company/institut-medico-educatif,la chaussée,institut medico educatif,pays de la loire,201-500,
+france,,D9g28niyAD2mdcDvGjBhLwPw8Eb9,hospital & health care,linkedin.com/company/lambrot-michel,rue-de-la-halle,lambrot michel,grand est,1-10,
+france,,mrTB0SuBvNX43JHJpppkDAluE2PQ,hospital & health care,linkedin.com/company/selarl-chirel,issy-les-moulineaux,selarl chirel,île-de-france,1-10,
+france,,wHpKlRaV7Z6sZZQ2ZoBpXgsubb7M,hospital & health care,linkedin.com/company/maison-de-retraite-de-hochfelden,hochfelden,maison de retraite de hochfelden,grand est,11-50,
+france,,liQC44EywH3fgCqKL7Q4lQpO9jNu,hospital & health care,linkedin.com/company/ambulance-assistance-medoc,margaux,ambulance assistance medoc,nouvelle-aquitaine,1-10,
+france,,6Q92EKSWQBYSiUGXJNsEhQCVRYm9,hospital & health care,linkedin.com/company/ghr-mulhouse-sud-alsace,mulhouse,ghr mulhouse sud-alsace,grand est,5001-10000,ghrmsa.fr
+france,,B3w2uiEwJmVRYL0m9JCDuwfCOUpx,hospital & health care,linkedin.com/company/ambulances-fontaine,agde,ambulances fontaine,occitanie,1-10,ambulances-fontaine.business.site
+france,,tRCdx9ovtO4mNtd1uxoXtg6KFQmM,hospital & health care,linkedin.com/company/accueil-du-frere-jean,galan,accueil du frere jean,occitanie,51-200,frerejeangalan.fr
+france,,jNpUyNFWlnZLPqe0rT2DmwznpIDs,hospital & health care,linkedin.com/company/maison-retraite-saint-francois-d'assise,mousson,maison retraite saint francois d'assise,grand est,51-200,
+france,2007,BLIFqQQhmoCiJQeEtmoNxgfM2FG7,hospital & health care,linkedin.com/company/clinique-de-l’europe-amiens,amiens,clinique de l’europe amiens - vivalto santé,hauts-de-france,51-200,
+france,,TdLDcvCOsCqbZWd7kAqc1wucnEMR,hospital & health care,linkedin.com/company/galland-thibaud,yzeure,galland thibaud,auvergne-rhône-alpes,1-10,
+france,,BVT0hjg5WJwdT91EDsu11wWfiLXz,hospital & health care,linkedin.com/company/angles-ambulance,angles,angles ambulance,pays de la loire,1-10,angles-ambulances.fr
+france,,1LRj65nZBBU4DsAx1nO7hQec6G91,hospital & health care,linkedin.com/company/europ-ambulances-chrisnel,montpellier,europ ambulances chrisnel,occitanie,1-10,
+france,,1r8myjufBjpa8N2LOxRT0AwdMPS5,hospital & health care,linkedin.com/company/centre-d'-imagerie-medicale-radiologie-echographie,étampes,centre d' imagerie medicale radiologie-echographie,île-de-france,11-50,
+france,,IK3JDCdQazXwFPzfC7TaIwougcop,hospital & health care,linkedin.com/company/ophtalmo-01,magny-les-hameaux,ophtalmo 01,île-de-france,1-10,
+france,,p6a3uSx8dODogegrpK5ukAAmdTj4,hospital & health care,linkedin.com/company/ambulances-labarriere---sarrazin,guîtres,ambulances labarriere - sarrazin,nouvelle-aquitaine,1-10,
+france,2023,OoHHYz4xeV2dSsjM0zqbBQ7xmqwk,hospital & health care,linkedin.com/company/bien-grandir-genevois,vétraz-monthoux,bien grandir,auvergne-rhône-alpes,1-10,bien-grandir-genevois.com
+france,2016,zQ7nhsirEy5Ce4PehIT3rwpSFXZy,hospital & health care,linkedin.com/company/qare-fr,paris,qare.fr,île-de-france,51-200,qare.fr
+france,,82Y6RQTBEsYJyVB4YJwNvwBL6Wzl,hospital & health care,linkedin.com/company/hopitaux-prives-de-la-cote-d'azur,cannes,hopitaux prives de la cote d'azur,provence-alpes-côte d'azur,1-10,
+france,,4dCVLlavlrFC9rZbWForGAuQGBD3,hospital & health care,linkedin.com/company/rambout-francois,fameck,rambout francois,grand est,1-10,
+france,,99thMDWyy86maRulfJO7SQrDdOoG,hospital & health care,linkedin.com/company/autisme-75-ile-de-france-sesame-autisme,paris,autisme 75 ile-de-france sesame autisme,île-de-france,11-50,
+france,,4aRBeHMmZjOi7ryO4nCiwgYFgon4,hospital & health care,linkedin.com/company/farny-bacilieri-yolande-christine,munster,farny bacilieri yolande christine,grand est,1-10,
+france,,76QXBVqtCs7u6ks0l1KwgAGuGDlc,hospital & health care,linkedin.com/company/ambulance-du-pradet,le pradet,ambulance du pradet,provence-alpes-côte d'azur,1-10,
+france,,O9IavrK5VvK2dgnr0Vh6sgMw3VIB,hospital & health care,linkedin.com/company/s-k-a-soutient-kinesiologie-administrati,georges,s k a soutient kinesiologie administrati,nouvelle-aquitaine,1-10,
+france,,MxidugWEJ6WQOCzJT1oB5AzAJLxf,hospital & health care,linkedin.com/company/hypnosil,paris,hypnosil,île-de-france,1-10,hypnosil.fr
+france,,8YcAoQ6NcZw3HIGzQk33vA2EHXRR,hospital & health care,linkedin.com/company/laboratoire-colard,fresnes-sur-escaut,laboratoire colard,hauts-de-france,11-50,laboratoire-colard.com
+france,,5rikLA73VBXi5SYT61ONVAZ3uPBG,hospital & health care,linkedin.com/company/maisonneuve-alban,wattignies,maisonneuve alban,hauts-de-france,1-10,
+france,,f20GrFHl0IYsFC2IZMN4YAaA7ASt,hospital & health care,linkedin.com/company/seviel,frontignan,seviel,occitanie,1-10,
+france,,SBaOxVjZffZmTm3cIqgHQQhByuHc,hospital & health care,linkedin.com/company/carrat-florence,millau,carrat florence,occitanie,1-10,
+france,,WwZbv2ErwIPQUWUQDST1QQafk1s3,hospital & health care,linkedin.com/company/imagerie-azur,nice,imagerie azur,provence-alpes-côte d'azur,1-10,
+france,,Cl0U2jqLJ5PCGl6J98mFGwycUQRO,hospital & health care,linkedin.com/company/vidal-julie,launaguet,vidal julie,occitanie,1-10,
+france,,pNZgBdfGTzcQeHYfJgiRlQJ9ZoBg,hospital & health care,linkedin.com/company/centre-social-et-culturel-afoulki,libourne,centre social et culturel afoulki,nouvelle-aquitaine,1-10,centre-social-et-culturel-afoulki.business.site
+france,,tqRcD7UiqWwM40IJwWHPOwjvYzPz,hospital & health care,linkedin.com/company/ehpad-du-giessen,rue de chorette,ehpad du giessen,hauts-de-france,51-200,
+france,,3ZCa2Pe4qgIkxBR6BXj1bgMum5fM,hospital & health care,linkedin.com/company/housez-emeline,houdain,housez emeline,hauts-de-france,1-10,
+france,,1ndIfePKrzihWdbeBUySggQf8mA8,hospital & health care,linkedin.com/company/ambulances-atlantic,orvault,ambulances atlantic,pays de la loire,1-10,
+france,1928,abh9AM7uAYejrcVrhQ62IAiE2Rgs,hospital & health care,linkedin.com/company/fondation-audavie,saint-martin-d’hères,centre médical rocheplane fondation audavie,auvergne-rhône-alpes,201-500,audavie.fr
+france,,xkygB6CZmpMF1nMAS96jkQkDieNv,hospital & health care,linkedin.com/company/therae-centre-medical,la chaussée-du-bois-d’écu,therae centre medical,hauts-de-france,1-10,
+france,2006,zPcUpGbZhtHM1TlIrBpAKQL4D2TT,hospital & health care,linkedin.com/company/clinique-pont-de-gien,gien,clinique du pont de gien,centre-val de loire,11-50,clinique-du-pont-de-gien.ramsaygds.fr
+france,,IBaXAIIXBGKoRTCoL5ut2AnyuKyU,hospital & health care,linkedin.com/company/laboratoire-jeanne,janzé,laboratoire jeanne,bretagne,1-10,laboratoire-jeanne.fr
+france,,SB5jC5L9BxGtQruVWqVuYwvwdXEd,hospital & health care,linkedin.com/company/societas-asistentia-handi-news-express,bordeaux,societas asistentia handi news express,nouvelle-aquitaine,1-10,
+france,,hBxzz48MOOOcqKyBE49SCgNhzuXn,hospital & health care,linkedin.com/company/ambulance-taxis-de-haute-bretagne,châteaubourg,ambulance taxis de haute bretagne,bretagne,1-10,
+france,,8KfzjGehy6v1TOj1ee8TBwSlRGnO,hospital & health care,linkedin.com/company/aupetit-charline,nanterre,aupetit charline,île-de-france,1-10,
+france,,CCTZNNBm6rIdHx6YK5rAAwHE7NjH,hospital & health care,linkedin.com/company/mahieu-fanny,montpellier,mahieu fanny,occitanie,1-10,
+france,1929,Rwmp2drQhGRi4vrz6fVoXAE0mwOu,hospital & health care,linkedin.com/company/clinique-des-augustines,malestroit,clinique des augustines,bretagne,201-500,cliniquedesaugustines.fr
+france,,l6j0knQrSQHgptLGABD9eQuPnVCi,hospital & health care,linkedin.com/company/barbosa-thomas,montry,barbosa thomas,île-de-france,1-10,
+france,2020,PVoK8uCbf5kJGjILynRnvQZt5pKl,hospital & health care,linkedin.com/company/corsica-sante-2a,ajaccio,corsica sante 2a,corse,1-10,corsicasante2a.wixsite.com/corsica-sante
+france,,6kLSpifVNIDZf4Y9YrQ6FAZxSCvj,hospital & health care,linkedin.com/company/ambulance-agreee-de-challans-daviaud-celton,saint-jean-de-monts,ambulance agreee de challans daviaud-celton,pays de la loire,1-10,
+france,,zGFQpZf5Ccq1lF3zAfYSuwn0Xk6m,hospital & health care,linkedin.com/company/foyer-saintjoseph,rouen,foyer saintjoseph,normandie,1-10,foyersaintjoseph.fr
+france,,wtznSaX6hRu5plyyfGAw4gQg1WeF,hospital & health care,linkedin.com/company/chu-amiens-picardie,amiens,chu amiens-picardie,hauts-de-france,5001-10000,chu-amiens.fr
+france,,GcTsA3AUrc3IHJgtYS51LAONIfgl,hospital & health care,linkedin.com/company/ehpad-curie-sembres,rabastens-de-bigorre,ehpad curie sembres,occitanie,1-10,curiesembres.fr
+france,,OH846KCNrT0JdNbVllLoSg7MDVuz,hospital & health care,linkedin.com/company/ehpad-residence-les-fontenottes,ancy-le-franc,ehpad residence les fontenottes,bourgogne-franche-comté,51-200,mrancy.com
+france,,YgKrd035xoCypukqji1XIw5C5Vpj,hospital & health care,linkedin.com/company/scanner-irm-de-montfermeil,montfermeil,scanner irm de montfermeil,île-de-france,1-10,
+france,,JXIbnFZp1gEbQMsCxreDfAB6eLyG,hospital & health care,linkedin.com/company/cotagon,saint-geoire-en-valdaine,cotagon,auvergne-rhône-alpes,1-10,cotagon.fr
+france,,hJZMa37lI3l1mTyiWqbQ2wXBG2D0,hospital & health care,linkedin.com/company/ambulances-phil,montfermeil,ambulances phil,île-de-france,1-10,
+france,2007,5V89BtqgxI1wRH9z5e0bngUSA8jT,hospital & health care,linkedin.com/company/cos-mas-vallee-du-lunain,nanteau-sur-lunain,cos mas de la vallée du lunain,île-de-france,51-200,
+france,,oxeB9CByIVo7EkOdXJitQwYY0MnQ,hospital & health care,linkedin.com/company/michel-helene,levallois-perret,michel helene,île-de-france,1-10,
+france,,zhphIjq23QzZvnDExICtUAbuoAiW,hospital & health care,linkedin.com/company/isma-paris,poissy,isma paris,île-de-france,11-50,
+france,,b6VkcK9TfCJatRFTWW4cqQERQIXZ,hospital & health care,linkedin.com/company/ambulance-ap,chessy,ambulance ap,île-de-france,1-10,
+france,,B3SbxtNf6PfoGBBkHMJjpAu9Nu9s,hospital & health care,linkedin.com/company/fonquergne-ophelie-sarah,le bourg,fonquergne ophelie sarah,occitanie,1-10,
+france,,USzSZuBESmBKczBAjCMPUQZcTxJa,hospital & health care,linkedin.com/company/strang-ludovic,paris,strang ludovic,île-de-france,1-10,
+france,,EA7nOfKe3xtofm4DWEANsQfkxDWG,hospital & health care,linkedin.com/company/central-ambulances,arras,central ambulances,hauts-de-france,1-10,
+france,,rrWPxWV7tkEQXDlHQSKKsgyOkpyk,hospital & health care,linkedin.com/company/maison-de-retraire-bon-repos,braine,maison de retraire bon repos,hauts-de-france,11-50,
+france,,VSggMy3kSRPFFdbMDjtt6gOCtfk5,hospital & health care,linkedin.com/company/laboratoire-de-biologie-medicale-multisites-corcy-&-associes,soissons,laboratoire de biologie medicale multisites corcy & associes,hauts-de-france,51-200,
+france,2013,ablj6AQZMigsGPAwFgBeuwQVnGgE,hospital & health care,linkedin.com/company/maison-de-sante-de-rochebrune,garches,clinique rochebrune,île-de-france,51-200,
+france,,5bEobSoi3fHtqK9fBahB7QvuDWjk,hospital & health care,linkedin.com/company/clinique-saint-faron,mareuil-lès-meaux,clinique saint faron,île-de-france,51-200,cliniquesaintfaron.fr
+france,1991,OVcdNclBoBGDZCpqdsjh2gI3xScA,hospital & health care,linkedin.com/company/methode-guillarme,chalon-sur-saône,la méthode guillarme,bourgogne-franche-comté,1-10,methode-guillarme.com
+france,,dOVQliw2iDTU2D2mUMMOkAnbWwny,hospital & health care,linkedin.com/company/ernewein-et-fils,,ernewein et fils,,1-10,
+france,,RCZKlxkbURzIOzJzmBT8IA9CW6p8,hospital & health care,linkedin.com/company/ehpad-maison-de-retraite-pierre-mondine,outarville,ehpad maison de retraite pierre mondine,centre-val de loire,51-200,
+france,,TT5o3duRMn73PdXXBLCCGA6M4cyn,hospital & health care,linkedin.com/company/laboratoire-d’analyse-medicales,bordeaux,laboratoire d’analyse medicales,nouvelle-aquitaine,1-10,
+france,2000,6KikgwhnFX8XbBZwDfoaQAnchaU8,hospital & health care,linkedin.com/company/ugecam-paca-corse,marseille,ugecam paca et corse,provence-alpes-côte d'azur,1001-5000,ugecam-pacac.fr
+france,,0kqYoKJq2Nj3oJHbtZDJDwV55LrK,hospital & health care,linkedin.com/company/se-ambulances-destruel-sarl,gamaches,se ambulances destruel sarl,hauts-de-france,11-50,
+france,,X7wAau3vThVtU0d5yKd7EQ0xOCGa,hospital & health care,linkedin.com/company/herrero-garcia-elena,saint-romain-en-gal,herrero garcia elena,auvergne-rhône-alpes,1-10,
+france,,bScQv5xIoI0K7yu9YtgtRQC1FRjw,hospital & health care,linkedin.com/company/residence-de-la-weiss,kaysersberg vignoble,residence de la weiss,grand est,51-200,
+france,,K4HFuPf3JBjuZAYMw8BSSQod5n0D,hospital & health care,linkedin.com/company/les-ambulances-europeennes,biache-saint-vaast,les ambulances europeennes,hauts-de-france,1-10,
+france,2016,1vZDJ6PpJagFQ24loWgxtwJgVRN7,hospital & health care,linkedin.com/company/clinic-osteo,paris,clinic osteo,île-de-france,1-10,clinic-osteo.com
+france,,WinRTWrwVgCgAs4C3IVfcQxFW67c,hospital & health care,linkedin.com/company/residence-de-l'hotel-dieu,les blancs,residence de l'hotel dieu,auvergne-rhône-alpes,51-200,
+france,,bQbQZcBJTPShQ96YDTS1AA69elwA,hospital & health care,linkedin.com/company/villeton-geraldine,quintenas,villeton geraldine,auvergne-rhône-alpes,1-10,
+france,,BbdaDp6DeSATBkpGiwYCmQhAoKEj,hospital & health care,linkedin.com/company/ambulances-saint-genoises,oullins,ambulances saint genoises,auvergne-rhône-alpes,1-10,
+france,,9EKF62MDKBVduXBEP6lkoQDc7SIS,hospital & health care,linkedin.com/company/residence-olivier-varlet,bourbourg,residence olivier varlet,hauts-de-france,11-50,
+france,2022,mL4V4Is3omEZnkTr4gDgYwqhX4gu,hospital & health care,linkedin.com/company/p-tit-bout-de-lumiere,bordeaux,p'tit bout de lumière,nouvelle-aquitaine,1-10,ptitboutdelumiere.com
+france,,boX7jZ1Xkar4bJwDDnjV0Ahpi4dc,hospital & health care,linkedin.com/company/clinique-quissac,quissac,clinique quissac,occitanie,51-200,cliniquedequissac.fr
+france,2017,Z2vJpkgnlUkp1q33xtuCOgWip3MF,hospital & health care,linkedin.com/company/l-arche-en-pays-comtois,dole,l'arche en pays comtois,bourgogne-franche-comté,11-50,
+france,2019,sZ4qUufOiRFcaC0TOlWOjwbAlatO,hospital & health care,linkedin.com/company/centre-de-radiologie-epinay-gare-orgemont,épinay-sur-seine,centre de radiologie epinay gare - orgemont,île-de-france,11-50,
+france,,hEURvgutjXqkizXgdFHcCQdQtgKL,hospital & health care,linkedin.com/company/les-hopitaux-de-la-mayenne,laval,les hôpitaux de la mayenne,pays de la loire,1001-5000,
+france,,QuoagGF0PtAfWck6DnpfsABPMJLz,hospital & health care,linkedin.com/company/cabinet-d'osteopathie-m-l-b,caluire-et-cuire,cabinet d'osteopathie m l b,auvergne-rhône-alpes,1-10,
+france,2001,F5FQjV4AoPUerOnaOQ29pwO1tGmP,hospital & health care,linkedin.com/company/cjn,paris,club des jeunes néphrologues,île-de-france,501-1000,cjnephro.com
+france,,YEp4kyfMGFTNjMA0nhDxmQ2RxRhn,hospital & health care,linkedin.com/company/chevalier-francois,la roche-sur-yon,chevalier francois,pays de la loire,1-10,
+france,,eqyuLZHISVuh7Sj7aAuC4gdViVj0,hospital & health care,linkedin.com/company/clinique-de-l-yvette,longjumeau,clinique de l yvette,île-de-france,201-500,
+france,,58mQy4OYskpfjs5VCpZzIQbIe2uG,hospital & health care,linkedin.com/company/ambulances-issoldunoises,issoudun,ambulances issoldunoises,centre-val de loire,1-10,ambulances-issoldunoises.fr
+france,,FBPDuCAM5K6tSk1cyzcLmgGpc3fT,hospital & health care,linkedin.com/company/centre-d'hebergement-et-d'accompagnement-gerontologique,pacy-sur-eure,centre d'hebergement et d'accompagnement gerontologique,normandie,51-200,
+france,,S5tjxxh5CLzBlEIA4XHdFwYi8xMC,hospital & health care,linkedin.com/company/polyclinique-pasteur,pézenas,polyclinique pasteur,occitanie,1-10,
+france,,ZMvm7MJH945qN4rB2YArzgYD3V89,hospital & health care,linkedin.com/company/laboratoire-mauguin-laurent,besancon,laboratoire mauguin laurent,bourgogne-franche-comte,1-10,laboratoire-mauguin-laurent.business.site
+france,,GU5EmEywBElRWu334lioPwmNOh4U,hospital & health care,linkedin.com/company/bernard-alex,anglet,bernard alex,nouvelle-aquitaine,1-10,
+france,1978,Y5sLPZRTfLdJI0WJBQ6gvAZ15KKD,hospital & health care,linkedin.com/company/associationpierrenoal,bagnoles-de-l’orne,association pierre noal,normandie,201-500,asso-pierrenoal.com
+france,,wqPiAoqf2XPfZAo9KEwfhQWDPS26,hospital & health care,linkedin.com/company/adlca,bletterans,adlca,bourgogne-franche-comté,1-10,
+france,,mO56Vxqj1Kcgv519fHtLIAgp2Zi6,hospital & health care,linkedin.com/company/ehpad-de-loue,loué,ehpad de loue,pays de la loire,11-50,
+france,2013,KBN4VhIOb4lKBR0sJqaWuABaH38W,hospital & health care,linkedin.com/company/lxrepair,grenoble,lxrepair,auvergne-rhone-alpes,1-10,lxrepair.com
+france,2001,k2DYOFVIscHncGf0Ji4WHw9KCNZL,hospital & health care,linkedin.com/company/admr-les-maisonnees,azay-le-rideau,admr les maisonnees,centre-val de loire,51-200,admrlesmaisonnees.org
+france,,N6Hj1ycigrtfYCbmPXOSvAgO1bAa,hospital & health care,linkedin.com/company/les-ambulances-de-l'esplanade,strasbourg,les ambulances de l'esplanade,grand est,1-10,
+france,,6DjIFCAxAJiBsm9YkW1ePQS7OqF8,hospital & health care,linkedin.com/company/beyney-laurence,royan,beyney laurence,nouvelle-aquitaine,1-10,
+france,,5AzfE0YtpEBCCMz4BKjyvgONz1SN,hospital & health care,linkedin.com/company/medicare-partners,paris,medicare partners,île-de-france,1-10,
+france,,QXp4Vve8O2a29YYjPPMTXATGyVqM,hospital & health care,linkedin.com/company/ambulances-a.b.h.m.-marseille,marseille-en-beauvaisis,ambulances a.b.h.m. marseille,hauts-de-france,1-10,
+france,,93VBv8wlUi1g77VWVorCQAKwlYQP,hospital & health care,linkedin.com/company/kiffeurt-gonzague,scy-chazelles,kiffeurt gonzague,grand est,1-10,
+france,,I6RGo90EeVYbC6iwKVnsuA2qyWTB,hospital & health care,linkedin.com/company/ehpad-du-lac-d'aiguebelette,les quatre saisons,ehpad du lac d'aiguebelette,occitanie,51-200,
+france,,9Oa3XcvFKy9LC7fIoXQ08AOjJx1Z,hospital & health care,linkedin.com/company/ambulances-les-cordeliers,châtellerault,ambulances les cordeliers,nouvelle-aquitaine,1-10,
+france,1980,xa0laBZJq0e6kCQWmdRtwwqQbObJ,hospital & health care,linkedin.com/company/sarl-fauconnet-pompes-funebres-taxis-ambulances,cozes,sarl fauconnet - pompes funebres / taxis / ambulances,nouvelle-aquitaine,11-50,
+france,,zCKaesBjIQAe2tPoUXFvCgxWYrS6,hospital & health care,linkedin.com/company/scp-recoules-andrianony,moulins,scp recoules-andrianony,hauts-de-france,1-10,
+france,,KOhH6LsAhA0Tl9fCXM0Fhwc58jJV,hospital & health care,linkedin.com/company/chillier-aurelie,bellegarde-sur-valserine,chillier aurelie,auvergne-rhône-alpes,1-10,
+france,,DrKBVGFoCSppmm4dK4owjQauauNN,hospital & health care,linkedin.com/company/polyclinique-la-pergola,vichy,polyclinique la pergola,auvergne-rhône-alpes,51-200,
+france,,l5PGUCWZ9pWfoRYGLp25hQce2QID,hospital & health care,linkedin.com/company/ambulances-de-cremieu,issy-les-moulineaux,ambulances de cremieu,île-de-france,1-10,
+france,,GqJ0bO8RMXCHo4nTXD7ZQw68NCzD,hospital & health care,linkedin.com/company/billard-benjamin,tours,billard benjamin,centre-val de loire,1-10,
+france,,wQfDbptMN1XPYMAr3Nx96AUBGtdv,hospital & health care,linkedin.com/company/les-ambulances-saint-jean,vincennes,les ambulances saint jean,île-de-france,1-10,
+france,,N5JBroST9miGyaOqJnnmCgJhNOOR,hospital & health care,linkedin.com/company/bruchet-gregory,meudon,bruchet gregory,île-de-france,1-10,
+france,,MvOON5L2dmA3p2iqNGC5BwYR32Sx,hospital & health care,linkedin.com/company/europe-ambulances,saint-germain-de-la-grange,europe ambulances,île-de-france,1-10,
+france,1995,xxUb2jQUyHjrfh9ztsBCrwqUlifw,hospital & health care,linkedin.com/company/centre-hospitalier-des-pays-de-morlaix,morlaix,centre hospitalier des pays de morlaix,bretagne,1001-5000,ch-morlaix.fr
+france,,wjXGYYQaq9vR5NXAOW0yLAzgdHOf,hospital & health care,linkedin.com/company/ambulances-de-l'auze,mauriac,ambulances de l'auze,auvergne-rhône-alpes,1-10,
+france,,eWNDVGxk4gkr6V7YaUCgNQj6JeoU,hospital & health care,linkedin.com/company/ambulance-dax-assistance,dax,ambulance dax assistance,nouvelle-aquitaine,1-10,ambulancedaxassistance.fr
+france,,DJO7CcF6DqvkTee9k3ygMAdOwafB,hospital & health care,linkedin.com/company/alternative-hôpital,marseille,alternative hôpital,provence-alpes-côte d'azur,1-10,
+france,,iHk2ukMPn0GhZS6Ducsd3QHfrBVr,hospital & health care,linkedin.com/company/ambulances-assistance-agrees-jean-paul-laroix,valréas,ambulances assistance agrees jean-paul laroix,provence-alpes-côte d'azur,11-50,
+france,,nSM5tUS1sWTjtsk8s7cvzga3S79d,hospital & health care,linkedin.com/company/boudjema-manuel,muzillac,boudjema manuel,bretagne,1-10,
+france,1985,jJw6hYl1iVe0WpGs4B2oJgkffZfO,hospital & health care,linkedin.com/company/ari---association-régionale-pour-l'intégration,saint-sébastien,ari - association provence,nouvelle-aquitaine,1001-5000,ari.asso.fr
+france,,1lFkUWyBoIpCXDY2v88SjQHnskbE,hospital & health care,linkedin.com/company/maison-de-retraite-la-pommeraie,cambremer,maison de retraite la pommeraie,normandie,1-10,residencelapommeraie.com
+france,,h6QyyGq8cJNl5jjoppbsWwcI8Ql7,hospital & health care,linkedin.com/company/odias,valence-en-brie,odias,île-de-france,11-50,odias.fr
+france,2022,a9SIbtuou6cZ8oJQBej9cwjcCyCX,hospital & health care,linkedin.com/company/leslieuxgays-fr,montataire,leslieuxgays.fr,hauts-de-france,1-10,leslieuxgays.fr
+france,2016,93ghgMtBIfISBOg9BHLadQTvXAiF,hospital & health care,linkedin.com/company/cap-école,la seyne-sur-mer,cap'école,provence-alpes-côte d'azur,1-10,capecole.org
+france,,rGJq5xWSoaTuTPpas6oxoA0HpgGZ,hospital & health care,linkedin.com/company/ehpad-les-ajoncs-d'or,allaire,ehpad les ajoncs d'or,bretagne,51-200,
+france,2016,JjlfZWVplfhlSp6BhWWpVQpChU4b,hospital & health care,linkedin.com/company/savoirspatients,toulouse,savoirs patients,occitanie,1-10,savoirspatients.org
+france,,wZMcownEbwHRKKhJRrVB3QhORBtw,hospital & health care,linkedin.com/company/hypnotec,villeurbanne,hypnotec,auvergne-rhône-alpes,1-10,hypnotec.fr
+france,,QKZ4sF1c9Fql0xnweIgpAgYEXSkV,hospital & health care,linkedin.com/company/ferrand-helyette,grande-synthe,ferrand helyette,hauts-de-france,1-10,
+france,,XBB8oxN7puYvc5AweAsNlAvKtR67,hospital & health care,linkedin.com/company/exalab-st-louis,bordeaux,exalab st louis,nouvelle-aquitaine,1-10,
+france,,MCe4Y6aX2YjvbrkSZvU7xApnaxk2,hospital & health care,linkedin.com/company/laborde-sandrine,landogne,laborde sandrine,auvergne-rhône-alpes,1-10,
+france,,kL2iMn9B34nwU0pk71BFJQEUUxYE,hospital & health care,linkedin.com/company/centre-de-soins-de-riquier,nice,centre de soins de riquier,provence-alpes-côte d'azur,1-10,
+france,,HMI97vfYrsG2D5Mfks4xxgymnLed,hospital & health care,linkedin.com/company/maison-accueil-desire-delattre,lens,maison accueil desire delattre,hauts-de-france,51-200,
+france,,55xLKvCAyZPRF63XoI0fIAfGI1qX,hospital & health care,linkedin.com/company/ambulances-claude-martin,cloyes-sur-le-loir,ambulances claude martin,centre-val de loire,1-10,
+france,,0wN8DDCJA04ujdN5OtkUwgq0nG8D,hospital & health care,linkedin.com/company/ambulances-sangleboeuf,tinténiac,ambulances sangleboeuf,bretagne,1-10,
+france,,79jkr5KCQk9TZ1IqpiyUcwFmKdFy,hospital & health care,linkedin.com/company/di-grazia-julie,cormelles-le-royal,di grazia julie,normandie,1-10,
+france,1997,Q80iDobf3gP32UWUSQAA3AC70Uzd,hospital & health care,linkedin.com/company/synlab-oxabio,cambrai,synlab oxabio,hauts-de-france,51-200,oxabio.fr
+france,,x9xIOTYMwJPXjTKe63OZBgyBx9QW,hospital & health care,linkedin.com/company/goudemand-laura,quesnoy-sur-deûle,goudemand laura,hauts-de-france,1-10,
+france,2020,DFPwiXbDIWt58qGf9eL5ng7vk4Cl,hospital & health care,linkedin.com/company/fhu-prema,paris,fhu prema,île-de-france,1-10,fhu-prema.org
+france,,zniFWoup9qAlgRssuiHrgQ0Vju4Y,hospital & health care,linkedin.com/company/perrillat-hugo,marseille-en-beauvaisis,perrillat hugo,hauts-de-france,1-10,
+france,,JCyqIi6XKGT0ZtCtDYr6Fw5mQAIT,hospital & health care,linkedin.com/company/biodin,dinan,biodin,bretagne,51-200,
+france,,KTtzKmwvKiX1fx2BVQCpTAOs0NfQ,hospital & health care,linkedin.com/company/goy-michel-jean,lunel,goy michel jean,occitanie,1-10,
+france,,J7efDRIV16KHpW4dMZ6eDwzJ9y0C,hospital & health care,linkedin.com/company/ehpad-marc-rocher,la chaise-dieu,ehpad marc rocher,auvergne-rhône-alpes,51-200,
+france,,Oq0wCFaTxPRqyrB38iW9pQTtwyLq,hospital & health care,linkedin.com/company/ehpad-neuilly-sur-seine,neuilly-sur-seine,ehpad neuilly sur seine,île-de-france,1-10,ehpadneuilly.com
+france,2022,QSGejeMzGzIT9Ba3hr8eEQUgI7I3,hospital & health care,linkedin.com/company/upec-lrb,paris,unité pharmaceutique des essais cliniques- hôpital lariboisière fernand-widal (upec),île-de-france,1-10,
+france,,34LZNqxkQeNrchg411u99wntscVg,hospital & health care,linkedin.com/company/idelly,douai,idelly,hauts-de-france,1-10,idelly.fr
+france,,wKvUX9Tuxkol1Ba5nAly5Q9JH6dR,hospital & health care,linkedin.com/company/ambulances-saga-laborde,villeneuve-sur-lot,ambulances saga-laborde,nouvelle-aquitaine,1-10,ambulances-saga-laborde-bias.fr
+france,,2B1DwcWHUxF12ZFYBNObuA76Zsdp,hospital & health care,linkedin.com/company/sarl-berge,marciac,sarl berge,occitanie,1-10,
+france,,hCbdhwrvluGZb2dD02lf8AQwq0sc,hospital & health care,linkedin.com/company/ambulances-borel---walter,lerrain,ambulances borel - walter,grand est,1-10,ambulances-borel-walter.fr
+france,,7MlpskUcJICUgQr8lzLVNwzdyu4C,hospital & health care,linkedin.com/company/lellis-group,granville,lellis group,normandie,11-50,
+france,,T9m2KjcSy981dI6rB25y4Q9sdW7C,hospital & health care,linkedin.com/company/malgorn-juliette,lyon,malgorn juliette,auvergne-rhone-alpes,1-10,
+france,,IEchHqfMv3CzHqlYbxO8WQjyDSIs,hospital & health care,linkedin.com/company/engelmann-robin,la wantzenau,engelmann robin,grand est,1-10,
+france,2016,bfajfB94yXxQ8nHBhfu4og8hFgCP,hospital & health care,linkedin.com/company/had-dela-région-de-melun,vaux-le-pénil,had de la région de melun,île-de-france,51-200,hadmelun.fr
+france,,vcCTCNODqIzIU6nqCekVywtbkF3c,hospital & health care,linkedin.com/company/ambulances-urgence-29,crozon,ambulances urgence 29,bretagne,1-10,
+france,,jKYmdF2sZR8AlWzJfbhw3wMRiv6M,hospital & health care,linkedin.com/company/etabl-pers-agees-dep-tricoche-maillard,aix-villemaur-pâlis,etabl pers agees dep tricoche maillard,grand est,51-200,
+france,,5UtZFCtcCATKf0opCUFA6Aj6gqCa,hospital & health care,linkedin.com/company/endo-nord-isere,bourgoin-jallieu,endo nord isere,auvergne-rhône-alpes,1-10,
+france,,8GQxnzFZaPhuTbmclYuCtgx8GM63,hospital & health care,linkedin.com/company/ehpad-la-douceur-de-vivre,montsûrs,les ehpads la douceur de vivre et marin bouille,pays de la loire,51-200,ladouceurdevivre.fr
+france,,A46cFiED802XkdlehnQgXgZcXlau,hospital & health care,linkedin.com/company/c-v-o,châtillon,centre de vision & d'ophtalmologie,île-de-france,1-10,
+france,,TzQlB5iJEAdqH3I6FP2YoQwn7URE,hospital & health care,linkedin.com/company/ambulances-la-narbonnaise,narbonne,ambulances la narbonnaise,occitanie,1-10,ambulancestaxilanarbonnaise.com
+france,,paroTAdtv7EnLAa6UnlBWglKq7pp,hospital & health care,linkedin.com/company/ambulance-rhanc,martignas-sur-jalle,ambulance rhanc,nouvelle-aquitaine,11-50,
+france,2022,cLoSPejEjmZqyKLB4hBt9gEILdQ4,hospital & health care,linkedin.com/company/neckepur,paris,neckepur,île-de-france,1-10,
+france,,xDSA9T9FIIVSdFDq3zysbA9Jyeof,hospital & health care,linkedin.com/company/ambulances-saint-patrick,dordives,ambulances saint patrick,centre-val de loire,1-10,
+france,2023,mocQt6JqLpcogSo5sgpnBQEqEP8f,hospital & health care,linkedin.com/company/centre-lehena-gynécologie-sénologie,biarritz,centre lehena - gynécologie-sénologie,nouvelle-aquitaine,1-10,centre-lehena-gynecologie.fr
+france,,087iT95FX5SgkgzZMx4mDA7ZUE9b,hospital & health care,linkedin.com/company/ambulance-tassigny,marseille-en-beauvaisis,ambulance tassigny,hauts-de-france,1-10,
+france,,JvO31NtJ4XjHP1iVPr86fAX8H3nF,hospital & health care,linkedin.com/company/movaleo,chazelles-sur-lyon,movaleo,auvergne-rhône-alpes,1-10,movaleo.com
+france,1900,gNJbYexaD23mvIObTwaSggLCgkf8,hospital & health care,linkedin.com/company/hospital-la-guerche-de-bretagne,la guerche-de-bretagne,centre hospitalier de la-guerche-de-bretagne,bretagne,51-200,ch-laguerche.fr
+france,2021,e4rpH6khcv6yNo5OaR76GQphWmKi,hospital & health care,linkedin.com/company/evergett-nvci-sas,lille,evergett (nvci sas),hauts-de-france,1-10,evergett.com
+france,,BKJLpIDtMJBvzePQ1axCWw71Q7OA,hospital & health care,linkedin.com/company/synlab-bourgogne---les-charmes,charolles,synlab bourgogne - les charmes,bourgogne-franche-comté,1-10,
+france,1967,8KByUNu5YeefRGuC5VO0HwOQqb7R,hospital & health care,linkedin.com/company/maison-de-sante-pontault-combault,pontault-combault,maison de santé de pontault-combault,île-de-france,11-50,
+france,,BqTYVaBXRJVLiuahZb4IVgKhAbmI,hospital & health care,linkedin.com/company/clinique-du-lac-d'aix-les-bains,brison-saint-innocent,clinique du lac d'aix-les-bains,auvergne-rhône-alpes,1-10,
+france,,o2LY2t2R6c3j5qSEAuVwqQ9VBFAO,hospital & health care,linkedin.com/company/ambulance-heekeng-marie-rolande-sarl,rue,ambulance heekeng marie rolande sarl,hauts-de-france,1-10,
+france,2016,ZKLVfGoi4saq9DY0n0HG3Qf9PCQs,hospital & health care,linkedin.com/company/clinicalshare,paris,clinicalshare,île-de-france,1-10,clinicalshare.com
+france,,Ep2VZwjyoIrPkdORsL6vIQo4aWQu,hospital & health care,linkedin.com/company/life-ambulances,irigny,life ambulances,auvergne-rhône-alpes,1-10,
+france,1924,w5Lo87iP8YcCviX5L0uVfgFxJ7l1,hospital & health care,linkedin.com/company/clinique-generale-annecy,annecy,clinique générale annecy - vivalto santé,auvergne-rhône-alpes,201-500,clinique-generale.net
+france,,n3RAQ7SA12BeE1CvpQqXLQXrK0JQ,hospital & health care,linkedin.com/company/health-ficience,paris,health'ficience,île-de-france,1-10,healthficience.fr
+france,,79EDdWHfbpOiBqzvLdFuBAU8iB9W,hospital & health care,linkedin.com/company/pissos,pissos,pissos,nouvelle-aquitaine,1-10,pissos.fr
+france,,18R9enerC5wsKLujSO0heQIJSXdY,hospital & health care,linkedin.com/company/ehpad-fondation-soussial,miramont-de-guyenne,ehpad-fondation soussial,nouvelle-aquitaine,11-50,
+france,,qnVMCXloy1EUl2jBjn68dAdaOKSO,hospital & health care,linkedin.com/company/bourcellier-vincent,celles-sur-belle,bourcellier vincent,nouvelle-aquitaine,1-10,
+france,,w2JrnoxCJJ3dCpz4s9gRlAGAsSNH,hospital & health care,linkedin.com/company/instantvisio,paris,instant visio,île-de-france,1-10,instantvisio.com
+france,,u2NcfP6hqcm1figIJZXrJgzP254r,hospital & health care,linkedin.com/company/ambulances-ars,amiens,ambulances ars,hauts-de-france,11-50,
+france,,28H4PE6kQ4qYMicvLqgTCguAAEje,hospital & health care,linkedin.com/company/residence-montbuisson,louveciennes,residence montbuisson,île-de-france,11-50,
+france,,rGJNEVsM2lx9GeHlP1tJKAmaq1oj,hospital & health care,linkedin.com/company/maison-st-charles,missillac,maison st charles,pays de la loire,51-200,
+france,,n9XRxHWBVqO3b1CKnZcELwO4JGyQ,hospital & health care,linkedin.com/company/ambulance-mascareigne-sarl,le port,ambulance mascareigne sarl,occitanie,1-10,
+france,,XicSVZzP8xBdqFNKEqvjBghw3SMc,hospital & health care,linkedin.com/company/polyclinique-de-navarre,pau,polyclinique pau pyrénées,nouvelle-aquitaine,201-500,polycliniquepaupyrenees.fr
+france,,jtxZCiECINmrwCG68s1yEweZujxS,hospital & health care,linkedin.com/company/sarl-para-medic-85,bretignolles-sur-mer,sarl para-medic 85,pays de la loire,1-10,
+france,,hW89UdRbxK3diF9CzGZk1wqZ41KL,hospital & health care,linkedin.com/company/anna---lou,bordeaux,anna - lou,nouvelle-aquitaine,1-10,
+france,,cRbMrdxLQcxXiB2e41RSGwKtiOxS,hospital & health care,linkedin.com/company/dagorn-nicolas,saint-brieuc,dagorn nicolas,bretagne,1-10,
+france,2022,UZD041sbr4DHdiW4jnZMFgvGWjI0,hospital & health care,linkedin.com/company/fédération-hospitalo-universitaire-genomeds,nantes,fédération hospitalo-universitaire genomeds,pays de la loire,51-200,fhu-genomeds.fr
+france,,fy7DCBCOEm7f1UgGLhKR3AIh3YOO,hospital & health care,linkedin.com/company/ehpadvellavi,saint-didier-en-velay,ehpadvellavi,auvergne-rhône-alpes,1-10,ehpadvellavi.fr
+france,2002,Za8XtKfkZvvj3CKvDmVGlAVRM53N,hospital & health care,linkedin.com/company/polyclinique-de-l'europe,saint-nazaire,polyclinique de l'europe - vivalto santé,pays de la loire,201-500,polyclinique-europe.fr
+france,,QHBoJ032HB4HaDnlRLxJZA7CLD9O,hospital & health care,linkedin.com/company/ambulance-cupidon,ozoir-la-ferrière,ambulance cupidon,île-de-france,1-10,
+france,,xR6UO9iTRtsQnQcIpZYW5QJ7PIpY,hospital & health care,linkedin.com/company/ehpad-la-vencoise,vence,ehpad la vencoise,provence-alpes-côte d'azur,1-10,cantavencoise.fr
+france,,GCXuxjs0mfsmlkWhblMAGQTtR90Q,hospital & health care,linkedin.com/company/ambulances-confluence,caluire-et-cuire,ambulances confluence,auvergne-rhône-alpes,1-10,ambulances-confluence.business.site
+france,,T1ABM2by5BDQjlebWgRCCQXI93gK,hospital & health care,linkedin.com/company/ehpad-d-argonne,clermont-en-argonne,ehpad d argonne,grand est,51-200,
+france,,NOJCPgvR12L7FAW6dBM7ZAvHWuEA,hospital & health care,linkedin.com/company/societe-vivier,corzé,societe vivier,pays de la loire,1-10,
+france,,QeSxBZysgVWUBYSV1kDoeABMROCX,hospital & health care,linkedin.com/company/clinique-chatelguyon,châtel-guyon,clinique chatelguyon,auvergne-rhône-alpes,1-10,clinique-chatelguyon.com
+france,1977,Ab3SuC0Jktp0gPRSExzQNgeMORc7,hospital & health care,linkedin.com/company/crf-midi-gascogne,beaumont-de-lomagne,clinique midi-gascogne,occitanie,51-200,midi-gascogne.com
+france,2019,pyJRidhYUZBm2C9j3McrPASyPkmb,hospital & health care,linkedin.com/company/esavitale,entzheim,esavitale,grand est,1-10,esavitale.fr
+france,,ZzHjQXci34UCd9enIKBUVgvE1swC,hospital & health care,linkedin.com/company/diaverum-angers,angers,diaverum angers,pays de la loire,51-200,
+france,,BYLSH8KaHg8B0JA5oY3QyAzhubM1,hospital & health care,linkedin.com/company/guillaumot-marc,mâcon,guillaumot marc,bourgogne-franche-comté,1-10,
+france,,Q94CFAzKcNIrYVxXVxry0gFeXBYb,hospital & health care,linkedin.com/company/dutca-elena,le pont-de-coulogne,dutca elena,hauts-de-france,1-10,
+france,,tidC6lyR7C3aRbFce26JwwzUTOLm,hospital & health care,linkedin.com/company/parent-renaudat-valerie,le vieux-marché,parent renaudat valerie,bretagne,1-10,
+france,,MVLpc71hPWb0wrjY9O1t7QafaclS,hospital & health care,linkedin.com/company/behr-solene,strasbourg,behr solene,grand est,1-10,
+france,,FEIDhxhvc079m6C2AVjlDQXz8cUO,hospital & health care,linkedin.com/company/ehpad-de-castillon,castillon-la-bataille,ehpad de castillon,nouvelle-aquitaine,51-200,
+france,,0laANWbofmJOEC5kyCWuFAhOUCtk,hospital & health care,linkedin.com/company/assistance-urgence---la-malouine,cancale,assistance urgence - la malouine,bretagne,1-10,
+france,2024,X6jTfmkz0D0B03b1tVQFuAl2i2ZY,hospital & health care,linkedin.com/company/pôle-santé-de-réadaptation-toulouse-ouest,toulouse,pôle santé de réadaptation - toulouse ouest,occitanie,1-10,
+france,,r5rdVIBRCOX5xuu725CbdAGf2xBT,hospital & health care,linkedin.com/company/ambulances-taxis-du-thore,saint-amans-soult,ambulances-taxis du thore,occitanie,11-50,
+france,,74fjmR8FUBEo1ODU4uwT2w3qF8hb,hospital & health care,linkedin.com/company/ambulances-tissier,nevers,ambulances tissier,bourgogne-franche-comté,1-10,
+france,,9QGbRXqETtVXIrxu6W6YEA8OGW3a,hospital & health care,linkedin.com/company/au-cabinet-des-aides-soignants,toulouse,au cabinet des aides soignants,occitanie,1-10,linktr.ee/au.cabinet.des.aides.soignants
+france,,b5Gptxf8feSoDjCL131fsAjPXSRK,hospital & health care,linkedin.com/company/arena-orthopedie,nice,arena orthopedie,provence-alpes-côte d'azur,1-10,
+france,,xXOdRkHwN2amfbBEBr9zHgTFiLOs,hospital & health care,linkedin.com/company/ambulances-meridien,ivry-sur-seine,ambulances meridien,île-de-france,1-10,
+france,,ZdDCDqJni9YKopcDWIwzyQtOVCdt,hospital & health care,linkedin.com/company/biomed-62,lievin,biomed 62,hauts-de-france,51-200,
+france,,BrFpBqrGqR7C0q1Y1eFzgw6KRlSo,hospital & health care,linkedin.com/company/ambulance-argenteuillaise,argenteuil,ambulance argenteuillaise,île-de-france,1-10,
+france,,Bd5B9chXOWeCF9SYKVVCpQcrvmpp,hospital & health care,linkedin.com/company/transports-sanitaires-francais,thiais,transports sanitaires francais,île-de-france,1-10,
+france,,9LgQSdpUlB6UKPwsCJHPNA9nFBJu,hospital & health care,linkedin.com/company/ambulances-entraiguoises,entraigues-sur-la-sorgue,ambulances entraiguoises,provence-alpes-côte d'azur,1-10,
+france,,9ClcP0gYwXHrLXu2lMXQ3gr3DBaY,hospital & health care,linkedin.com/company/romieu-nicolas,le luc,romieu nicolas,provence-alpes-côte d'azur,1-10,
+france,,xqV6N5lSOE3J96Vz0cX3Jglyilkn,hospital & health care,linkedin.com/company/chte,fréjus,chte,provence-alpes-côte d'azur,1-10,chte.fr
+france,,IPiYwXjScGiCuSufBzT0fQRBC4XC,hospital & health care,linkedin.com/company/kin-ergie,cahors,kin-ergie,occitanie,1-10,
+france,2016,hMM1Cr9NrUMcU9MAiaMElwbtxbT3,hospital & health care,linkedin.com/company/help-air-à-domicile,montpellier,help air - assistance respiratoire,occitanie,11-50,helpairadomicile.fr
+france,,rLzDbrIPL6voDb0Q6DzBmQYhh08p,hospital & health care,linkedin.com/company/retour-petites-soeurs-des-pauvres,agen,retour petites soeurs des pauvres,nouvelle-aquitaine,1-10,
+france,,fqIAqBwvzNgxmcFYQAfItQcL3rVF,hospital & health care,linkedin.com/company/ambulances-calaisiennes,calais,ambulances calaisiennes,hauts-de-france,11-50,
+france,,hSQ4oBAEfCf3FJQ6wwKAZgnpg9yG,hospital & health care,linkedin.com/company/centre-hospitalier-sud-charente,barbezieux-saint-hilaire,hôpitaux du sud charente,nouvelle-aquitaine,501-1000,ch-sud-charente.fr
+france,2021,dtbTydKBGzGRrcyYnMSW7gPhKlLZ,hospital & health care,linkedin.com/company/medicsupply-sas,villeneuve-sur-lot,medicsupply sas,nouvelle-aquitaine,11-50,
+france,2022,NAubG9MbgI6PAhcHKP6xYAQVPAwS,hospital & health care,linkedin.com/company/akinmedci,le châtelet-en-brie,akin - meddev distribution,île-de-france,1-10,akinmed.fr
+france,,6xqjCDJ60cegylZXHkMbBABqiA6U,hospital & health care,linkedin.com/company/kine-mariotte,perpignan,kine mariotte,occitanie,1-10,
+france,,vX8IKmOfONQqLBzaRb49EwMW1VEQ,hospital & health care,linkedin.com/company/carole-suchet-consulting,paris,carole suchet consulting,île-de-france,1-10,carolesuchetconsulting.fr
+france,,ipBGewQLWeqSyLRpGcHBoAyerMU5,hospital & health care,linkedin.com/company/sarl-durran---lisa,montauban,sarl durran - lisa,occitanie,1-10,
+france,,1XdRZYFFM1dhuLCAIHhdsghvL4PW,hospital & health care,linkedin.com/company/clinique-du-vivarais-saint-dominique,aubenas,clinique du vivarais saint dominique,auvergne-rhône-alpes,51-200,
+france,,1ojXhcCUbhYehqxl8hjOWwLQOwlC,hospital & health care,linkedin.com/company/ambulances-la-bauquiere,allauch,ambulances la bauquiere,provence-alpes-côte d'azur,1-10,
+france,2024,bTf0v8lQ84bdoy1tj4b5HAEZEm47,hospital & health care,linkedin.com/company/samm-service-d-aide-médicalisée-à-la-maison,boulogne-billancourt,samm (service d'aide médicalisée à la maison),île-de-france,1-10,sammaide.wixsite.com/monsite
+france,,Ps5CArz8r0SPvkJWfxISYQGlr4Pr,hospital & health care,linkedin.com/company/tourte-gauthier-claude-pierre,lille,tourte gauthier claude pierre,hauts-de-france,1-10,
+france,,sj7tqIVEx96uK2B0AhKXnwMK2LFR,hospital & health care,linkedin.com/company/jevtovic-sarah,bruay-la-buissière,jevtovic sarah,hauts-de-france,1-10,
+france,,2JlUROs5QWBTAcCljnBpvQBzQ6Vy,hospital & health care,linkedin.com/company/maison-de-retraite-de-villars-les-dombes,villars-les-dombes,maison de retraite de villars les dombes,auvergne-rhône-alpes,51-200,
+france,,8nW6C6sOOVOdu65ho1otvwVLDahj,hospital & health care,linkedin.com/company/ehpad-la-vrilliere,châteauneuf-sur-loire,ehpad la vrilliere,centre-val de loire,51-200,
+france,,NQRRZCRaBJd4gmaGZmqC3wbqcCVj,hospital & health care,linkedin.com/company/centre-falguiere,paris,centre falguiere,île-de-france,1-10,centrefalguiere.com
+france,,21KdEAcXaCwfAdmyJRxdsAY3pzlz,hospital & health care,linkedin.com/company/roy-emmanuelle,viuz-en-sallaz,roy emmanuelle,auvergne-rhône-alpes,1-10,
+france,,XNfcNU9BUYt5vBS4ry4arw8eocVI,hospital & health care,linkedin.com/company/ambulances-presqu'ile-d'arvert,la tremblade,ambulances presqu'ile d'arvert,nouvelle-aquitaine,1-10,
+france,,wWCtNV6nMqZUQT4QCviECwP8P7QC,hospital & health care,linkedin.com/company/gcs-imagerie-lariboisiere-impc,paris,gcs imagerie-lariboisiere impc,île-de-france,1-10,
+france,2023,iVSS1ZcPC7m6aZb6PCVG5Qz701UJ,hospital & health care,linkedin.com/company/la-passerelle-surdicécité,toulouse,la passerelle surdicécité,occitanie,1-10,passerellesurdicecite.org
+france,,K6ahwuij9kTsV5Q6PFcgtg9CMTW1,hospital & health care,linkedin.com/company/sarl-ambulances-bayeusaines,saint-loup-hors,sarl ambulances bayeusaines,normandie,1-10,
+france,,6ZmSiGy6rCp41bzohBcckAl8SK0r,hospital & health care,linkedin.com/company/societe-d'exploitation-de-la-clinique-du-perreux,roncevaux,societe d'exploitation de la clinique du perreux,île-de-france,51-200,
+france,,aDaUBTsXeQYJMheqkl8q1gEARDAP,hospital & health care,linkedin.com/company/assistance-sanitaire-marseillaise-a-s-m,marseille,assistance sanitaire marseillaise a s m,provence-alpes-côte d'azur,1-10,
+france,,ao2XExZ3dbS4YFFTBnhr8wlJiRdb,hospital & health care,linkedin.com/company/les-ambulances-de-blerancourt,blérancourt,les ambulances de blerancourt,hauts-de-france,11-50,
+france,,nwmFOAjqXvUadKwkqPln4AkSzcrY,hospital & health care,linkedin.com/company/ehpad-résidence-les-3-moulins,riaillé,ehpad résidence les 3 moulins,pays de la loire,11-50,residence-les3moulins.fr
+france,1968,JGIHA09tW67woVP0GXpsyQtM4uiZ,hospital & health care,linkedin.com/company/polyclinique-de-gentilly,nancy,polyclinique de gentilly - nancy (groupe elsan),grand est,501-1000,
+france,,Tz2c1yv3O4Wmh3snWwsCuwzP2aXL,hospital & health care,linkedin.com/company/teruel-martinez-felipe,aignan,teruel martinez felipe,occitanie,1-10,
+france,,IfGDSVMZfiiqC3BhBTzoYAVyrr1Q,hospital & health care,linkedin.com/company/centre-hospitalier-les-chanaux,mâcon,centre hospitalier les chanaux,bourgogne-franche-comté,1-10,
+france,,VyJ9PmDkezDKqB5jlIWrygXfJ3rE,hospital & health care,linkedin.com/company/samain-marc,cavalaire-sur-mer,samain marc,provence-alpes-côte d'azur,1-10,
+france,,Lz7igz57I9DAh3GqCesDTAKcbcI3,hospital & health care,linkedin.com/company/levaillant-marc,milly-la-forêt,levaillant marc,île-de-france,1-10,
+france,,OHGLmjrsoQ2H9C1Wwz9kjQvSPxy6,hospital & health care,linkedin.com/company/residence-des-landes,roquefort-la-bédoule,residence des landes,provence-alpes-côte d'azur,51-200,
+france,1989,5qnkbeQBrYD3YWLRebYmiQlPRfzn,hospital & health care,linkedin.com/company/laerdal-medical-france,limonest,laerdal medical france,auvergne-rhône-alpes,11-50,laerdal.fr
+france,,JWo0vyGf5KSmaGylPLoG9QZPie8F,hospital & health care,linkedin.com/company/dgmp-kines,rouen,dgmp kines,normandie,1-10,
+france,,UBiCsfzBZJjgniJrIlPdTgGTv7S3,hospital & health care,linkedin.com/company/ambulance-gorronnaise,gorron,ambulance gorronnaise,pays de la loire,1-10,ambulance-gorronnaise.fr
+france,,KZIfHJMFyA9NabwjJwaJWAfWKkks,hospital & health care,linkedin.com/company/ehpad-constance-mazier,aubervilliers,ehpad constance mazier,île-de-france,11-50,ehpad-constance-mazier.e-monsite.com
+france,,pHfGBaHbQG3YjnFMbk4HMg33mXUF,hospital & health care,linkedin.com/company/association-le-moutier,gramond,association le moutier,occitanie,51-200,
+france,2021,S2fNgbRZ6zXCjUD7vPwkcAWs0SNz,hospital & health care,linkedin.com/company/anr-dynsanté,saint-jean-de-la-porte,anr dynsanté,auvergne-rhône-alpes,11-50,
+france,,MFK9zol7bjCes3db0iA6NgkYGvKJ,hospital & health care,linkedin.com/company/tiffany-robert,libourne,tiffany robert,nouvelle-aquitaine,1-10,tiffanyrobert.com
+france,2023,pbue7gZl3NPRBq5VJ2DN8Qz0QFWy,hospital & health care,linkedin.com/company/ballas-invest,paris,ballas invest,île-de-france,1-10,ballasinvest.com
+france,,AgzLZyTelfE4ngPlj8wC7wXEKAK5,hospital & health care,linkedin.com/company/laudouard-sandra,dax,laudouard sandra,nouvelle-aquitaine,1-10,
+france,,0v66KljO2P48D8MgglK1ugQ60bME,hospital & health care,linkedin.com/company/meyer-ambulances-freyming-merlebach,freyming-merlebach,meyer ambulances freyming merlebach,grand est,1-10,
+france,,AKQDJIVgaKegPSuYJ5UC8ASkC2aj,hospital & health care,linkedin.com/company/sud-medical-service-13,buis-les-baronnies,sud medical service 13,auvergne-rhône-alpes,1-10,
+france,2017,pVt9588w04kPCKRXLdbzlA0G1T0X,hospital & health care,linkedin.com/company/psypro-lyon,villeurbanne,psypro lyon,auvergne-rhône-alpes,11-50,psyprolyon.fr
+france,,chsTRfG2Kt5BfzobZB7eaQlz0gOU,hospital & health care,linkedin.com/company/sos-kine,poissy,sos kine,île-de-france,1-10,
+france,,0MmKTzPipwLFL6ERLMkFAAfH3Xhc,hospital & health care,linkedin.com/company/sh-ambulances,neuville-sur-saône,sh ambulances,auvergne-rhône-alpes,1-10,
+france,1883,Afyf42eB3Q2fU2TXjixycQFc258b,hospital & health care,linkedin.com/company/la-croix-bleue-addiction,paris,la croix bleue addictions,île-de-france,501-1000,
+france,,gVGFC1VdqAo850TdDn2yKAJeSJwQ,hospital & health care,linkedin.com/company/les-clés-du-mieux-etre,walheim,les clés du mieux etre,grand est,1-10,les-cles-du-mieux-etre.business.site
+france,,Q64c7RC3sBxVmOZSPR4RrgDqwEg5,hospital & health care,linkedin.com/company/om-dit-hauts-de-france,lille,omédit hauts-de-france,hauts-de-france,1-10,arshdf.fr
+france,2021,98rbVD8WCwnPL6JqwAEFRQdLkSRX,hospital & health care,linkedin.com/company/centre-dentaire-dentika,clermont-ferrand,centre dentaire dentika,auvergne-rhone-alpes,1-10,centre-dentaire-clermont.fr
+france,,Gxu2iCJ0tCP2orUxVrt0CQGn4Bz3,hospital & health care,linkedin.com/company/ralu-charlotte,pamiers,ralu charlotte,occitanie,1-10,
+france,,bU6iNC6IbTm0sCWzAAJItAugmaiM,hospital & health care,linkedin.com/company/ehpad-intercommunal-des-abers,rue du cormier,ehpad intercommunal des abers,bretagne,201-500,
+france,1937,CkoXiK7GQtJubyCiBdnUWQI4Rimd,hospital & health care,linkedin.com/company/hôpitaux-civils-de-colmar,colmar,hôpitaux civils de colmar,grand est,1001-5000,ch-colmar.fr
+france,,w9Mo6zruHESueCIiGunPqgIAZ0k6,hospital & health care,linkedin.com/company/mongodin-arthur,bastia,mongodin arthur,corse,1-10,
+france,,u6LGlTKiZMygJ8FmcP4eNAomnmz2,hospital & health care,linkedin.com/company/marly-ambulances,le port-marly,marly ambulances,île-de-france,1-10,marly-ambulances.com
+france,,Un5G6Zhj8XShlgzzaX0StgFJdUA7,hospital & health care,linkedin.com/company/clinique-ambulatoire-de-la-ceze,bagnols-sur-cèze,clinique ambulatoire de la ceze,occitanie,11-50,
+france,1597,up6aKBXfHkVs8ztATqppzwAC6ytD,hospital & health care,linkedin.com/company/cpnlaxou,laxou,centre psychothérapique de nancy - cpn,grand est,1001-5000,cpn-laxou.com
+france,2002,Zz5RS41B09SipCw3Kd6H8gPetcVj,hospital & health care,linkedin.com/company/requa,besancon,requa,bourgogne-franche-comte,11-50,requa.fr
+france,,tEu6emQnJKradtkXrisfbQHviSMm,hospital & health care,linkedin.com/company/razin-manuel,pointe à pitre,razin manuel,occitanie,1-10,
+france,,mpJUCXNgUqF0OILHzBz7BgjFgx8k,hospital & health care,linkedin.com/company/institut-for-regenerative-medecine-biothérapies-irmb,montpellier,institut for regenerative medecine & biothérapies (irmb),occitanie,51-200,irmb-montpellier.fr
+france,,qeYoaYYnHpmA2qQ55lyHpQNUGXt4,hospital & health care,linkedin.com/company/ambulances-du-sud,le mitan,ambulances du sud,provence-alpes-côte d'azur,1-10,
+france,2016,Thb5RCQKQey3Q50QT7ofFwbHoM2W,hospital & health care,linkedin.com/company/ght72,le mans,ght de la sarthe,pays de la loire,5001-10000,
+france,,XAuTVja1rB6cHrMjIBbMQwrvbtiT,hospital & health care,linkedin.com/company/g.i.e.-nord-tep,lille,g.i.e. nord-tep,hauts-de-france,1-10,
+france,,DdM3PKQuKY37ncK2L3YukAHcXml3,hospital & health care,linkedin.com/company/groupe-d'imagerie-medicale-dunkerquois---sigle-gimd,dunkerque,groupe d'imagerie medicale dunkerquois - sigle gimd,hauts-de-france,11-50,
+france,,G4BdQlKYZF13fNoe4Q1iYQF6UcX4,hospital & health care,linkedin.com/company/les-sources-d'azur,seillons-source-d’argens,les sources d'azur,provence-alpes-côte d'azur,51-200,
+france,1994,wWJvleWbfckJH0UBtlU47g5QVvrw,hospital & health care,linkedin.com/company/ircad,,ircad,,11-50,ircad.fr
+france,,PdcuzPmyjfr04Mua7qIVFQ6GLlPT,hospital & health care,linkedin.com/company/centre-hospitalier-de-vitre,vitré,centre hospitalier de vitré simone veil,bretagne,501-1000,
+france,,3XJBb6r71v2TUCdmourMfgSiN4iT,hospital & health care,linkedin.com/company/celies-ambulances,vaulx-en-velin,celies ambulances,auvergne-rhône-alpes,1-10,
+france,,UscIPqikVwL5QmnmXrHpZwSL7CDL,hospital & health care,linkedin.com/company/lopez-aguila-alvaro-ricardo,paris,lopez aguila alvaro ricardo,île-de-france,1-10,
+france,1991,CxdUqz2uqfzoi0bMyrEqCgeqkRPc,hospital & health care,linkedin.com/company/sos-oxygène-champagne-ardenne,cormontreuil,sos oxygène champagne-ardenne,grand est,11-50,
+france,2010,3RI6IGFbA3WPlr3NYCgbdAu9FhYb,hospital & health care,linkedin.com/company/cabinet-b,toulouse,cabinet b,occitanie,1-10,cabinetb.com
+france,2023,QVVF0MSos76Ykq441jZZRwCRQ2fk,hospital & health care,linkedin.com/company/communauté-360-gard,,communauté 360 - gard,,1-10,communaute360-gard.fr
+france,2016,AkyIXzCq8Wq7sLqMghtXVQWs0D1c,hospital & health care,linkedin.com/company/physioflex-sport-santé,rivesaltes,physioflex sport santé,occitanie,11-50,
+france,,FzaGA2pZ6FwzTDi1dqtMYAvGYB2t,hospital & health care,linkedin.com/company/elys'amb,estivareilles,elys'amb,auvergne-rhône-alpes,1-10,
+france,2023,8B2I6iIJXHvNChcYv5mdsAIjSdz2,hospital & health care,linkedin.com/company/sidoc-sante,villeneuve-de-la-raho,sidoc-santé,occitanie,1-10,sidoc-sante.fr
+france,,OaPfqvSSjYGuC4olNqqxDAJfZ5zr,hospital & health care,linkedin.com/company/c-b-a-b-,ciboure,c.b.a.b.,nouvelle-aquitaine,1-10,
+france,,qGYPD23ZZAzENQUal1wpOQyyKSnl,hospital & health care,linkedin.com/company/maison-de-retraite-residence-ty-noal,noyal-pontivy,maison de retraite residence ty noal,bretagne,51-200,
+france,,qBBxv4wjmGI3B1k0jN7kwgfRlm9y,hospital & health care,linkedin.com/company/boaro-mandy,rue,boaro mandy,hauts-de-france,1-10,
+france,,yHGbMg4GBBOiabtjJ8lVEgGvJGKI,hospital & health care,linkedin.com/company/berros-asher,strasbourg,berros asher,grand est,1-10,
+france,,cSnvZTyTsewy3b5juAjgcwRTPDx9,hospital & health care,linkedin.com/company/mirfattahi-thomas,oberhausbergen,mirfattahi thomas,grand est,1-10,
+france,1995,jLSdj2KBUKt1RCf4cf4yygDmWNkw,hospital & health care,linkedin.com/company/clinique-de-la-baie-de-morlaix,morlaix,clinique de la baie - morlaix - vivalto santé,bretagne,51-200,
+france,,DvYp5MZcC2m2d34uATNECQYjntNn,hospital & health care,linkedin.com/company/gcs-du-marsan-nouvelle-clinique-des-landes,saint-pierre-du-mont,gcs du marsan -nouvelle clinique des landes,nouvelle-aquitaine,51-200,clinique-deslandes.com
+france,,F1sqQoE2TZJHwrWxS0sfmQMl5siH,hospital & health care,linkedin.com/company/lab-bio,paris,lab bio,île-de-france,1-10,labbio.net
+france,,JCL4w5g5wJrUKNKsDD9jrgXlnCD9,hospital & health care,linkedin.com/company/jeannel-laetitia-myriam-geraldine,saint-dié-des-vosges,jeannel laetitia myriam geraldine,grand est,1-10,
+france,,Zp84jMNPbXLF8YexZxJZYQMLv73J,hospital & health care,linkedin.com/company/centre-vertes-collines,château gombert,centre vertes collines,provence-alpes-côte d'azur,11-50,
+france,2022,Mn8KzVE8YLB3QXTmOdfApQ8QPYnu,hospital & health care,linkedin.com/company/cabinet-d-ophtalmologie-de-cachan,cachan,cabinet d'ophtalmologie de cachan,île-de-france,1-10,maviesion.fr
+france,,YPDsk0epMe9CREBhYchr9QI5gsXW,hospital & health care,linkedin.com/company/hopital-nord-franche-comte,trévenans,hôpital nord franche-comté,bourgogne-franche-comté,1001-5000,hnfc.fr
+france,,bBBkWuxqiPdarRY0J6UyQwEak7H1,hospital & health care,linkedin.com/company/polyclinique-saint-pierre-sa,montpellier,polyclinique saint pierre sa,occitanie,1-10,
+france,,8gKmMyOrQfj7rlo5GOwvoAfWrUBj,hospital & health care,linkedin.com/company/hopitaux-du-bassin-de-thau,sète,hôpitaux du bassin de thau,occitanie,1001-5000,ch-bassindethau.fr
+france,,uUjWvYZuvzdiWVXGuKRlowyrMgbX,hospital & health care,linkedin.com/company/résidence-les-opalines,les moutiers-en-cinglais,résidence les opalines,normandie,1-10,residencelesopalines.com
+france,,RmFOYpsFMPlw6xKntaDabwFTt3P4,hospital & health care,linkedin.com/company/steib-fanny,strasbourg,steib fanny,grand est,1-10,
+france,,GWk30xC2N43CqhaXy6jQvwiuvPOX,hospital & health care,linkedin.com/company/societe-lorraine-d'imagerie-medicale,maxéville,societe lorraine d'imagerie medicale,grand est,11-50,
+france,,8fScvTvGI88lMxCB25L59wNCprB1,hospital & health care,linkedin.com/company/ambulances-val-de-scie,saint-denis-sur-scie,ambulances val de scie,normandie,1-10,ambulancesvaldescie.business.site
+france,,oOeuT2oHpNWwndZwCxCI9wRYML21,hospital & health care,linkedin.com/company/ambulances-saint-aubinaises,saint-aubin-du-cormier,ambulances saint-aubinaises,bretagne,1-10,
+france,,ImreBmEeVCysx6oqmCd9Hg2s6inu,hospital & health care,linkedin.com/company/sarl-flash-ambulances,houilles,sarl flash ambulances,île-de-france,1-10,
+france,,uib3l9JIHjTMxP5gLUeaPAsJ68s5,hospital & health care,linkedin.com/company/picolo-lemozie-veronique,gap,picolo lemozie veronique,provence-alpes-côte d'azur,1-10,
+france,,gdHzCobe7FERd6TJtRTKewk6neUU,hospital & health care,linkedin.com/company/huguet-huguet-campana-christopher,ajaccio,huguet huguet campana christopher,corse,1-10,
+france,,Ll0wrWF7yi2Bx1hZfCbNzQJoJzoF,hospital & health care,linkedin.com/company/acquesta-marina,saint-jean-les-deux-jumeaux,acquesta marina,île-de-france,1-10,
+france,,G31w8nwwYaKd84wBdDwCvATzAQgC,hospital & health care,linkedin.com/company/central'transports,la chapelle-sur-crécy,central'transports,île-de-france,51-200,
+france,,vBoCsoHE89aVlHWizTB60grvE5Bs,hospital & health care,linkedin.com/company/societe-ambulances-berard,saint-maurice,societe ambulances berard,île-de-france,1-10,
+france,,9oJcVGBgyk2gOeHASqtthAYgZx1u,hospital & health care,linkedin.com/company/ch-aunay-bayeux,bayeux,ch aunay bayeux,normandie,1001-5000,
+france,,DsaG1v5gjbXNnUkDj5cCuQab64Sa,hospital & health care,linkedin.com/company/clinique-de-chooisy,,clinique de chooisy,,1-10,
+france,,uwIfeHxHy1nnqiabuQSGGgVl1E0I,hospital & health care,linkedin.com/company/navarro-ambulances,alès,navarro ambulances,occitanie,11-50,
+france,,PBQiCTnAIB7KBCXrOPesCwYr0rDI,hospital & health care,linkedin.com/company/dunieres-ambulances,dunières,dunieres ambulances,auvergne-rhône-alpes,1-10,
+france,,E2ELfFxBhuWKWy2twCM0owh9PKfY,hospital & health care,linkedin.com/company/louplande-ambulances,saint-léonard,louplande ambulances,hauts-de-france,1-10,
+france,,EG4HZqkI6Ad1SSvBHZKobgsFV3A1,hospital & health care,linkedin.com/company/niewiem-barokel-francoise,paris,niewiem barokel francoise,île-de-france,1-10,
+france,,GBO1lMBSXIP06jLqqt2c4Qy2VpHZ,hospital & health care,linkedin.com/company/selarl-cin,mougins,selarl cin,provence-alpes-côte d'azur,11-50,
+france,,gSpGScZE7x27V2CNMWK03QZF9048,hospital & health care,linkedin.com/company/selarl-kines-polyclinique-beaujolais,villefranche-sur-saône,selarl kines polyclinique beaujolais,auvergne-rhône-alpes,1-10,
+france,,XRW1QzHvmVjzKHOo0VFSmgqQAjnV,hospital & health care,linkedin.com/company/hôpital-prive-toulon-hyeres--saint-roch,toulon,hôpital prive toulon hyeres -saint roch,provence-alpes-côte d'azur,51-200,
+france,,hmSOtxTQVe2CU2OfJSymigmUXsTE,hospital & health care,linkedin.com/company/vaugon-kathy-virginie-nadine,vaujours,vaugon kathy virginie nadine,île-de-france,1-10,
+france,,NFGzKrhH5ooKDLdeVZ50DggoGWaa,hospital & health care,linkedin.com/company/selarl-de-masseur-kinesitherapeute-osteopathe-frederic-poirrier,châtenay-malabry,selarl de masseur kinesitherapeute osteopathe frederic poirrier,île-de-france,1-10,
+france,,HShTVneOG8AetQnnwZVXVQGum65r,hospital & health care,linkedin.com/company/lv-ambulances,panissières,lv ambulances,auvergne-rhône-alpes,1-10,
+france,,Do0ouArOyNKvojv2iJaBsQUa2ZVU,hospital & health care,linkedin.com/company/hôpital-loewel,munster,hôpital loewel,grand est,51-200,
+france,,oB9aEgQfNzGkgST7cSuwfwXUj6u9,hospital & health care,linkedin.com/company/societe-de-gestion-du-normandy,granville,societe de gestion du normandy,normandie,501-1000,
+france,1974,WT212BwpxjqmbW3kCrAsqgG0o4Xg,hospital & health care,linkedin.com/company/polyclinique-du-parc-cholet,cholet,polyclinique du parc - vivalto santé,pays de la loire,501-1000,polyclinique-du-parc.net
+france,,zgLpOCnkSXO4yXliB4yDdAnjqqVr,hospital & health care,linkedin.com/company/ambulances-mathieu,boussy-saint-antoine,ambulances mathieu,île-de-france,1-10,ambulances-mathieu.fr
+france,,7RBmWxgJQUgWCL9g5tucOgZeG2Wm,hospital & health care,linkedin.com/company/selarl-imagerie-medicale-gailleton,lyon,selarl imagerie medicale gailleton,auvergne-rhone-alpes,1-10,
+france,,VuIcHaUTExh3L3qzPoGvcgUTpxEA,hospital & health care,linkedin.com/company/maison-de-retraite-charles-lefevre,flavy-le-martel,maison de retraite charles lefevre,hauts-de-france,51-200,
+france,,RCEhv3bNKSJAB07RzJ5TGwAf9CNe,hospital & health care,linkedin.com/company/ambulances-du-trieves,monestier-de-clermont,ambulances du trieves,auvergne-rhône-alpes,1-10,
+france,,1SaMvRinM3fb3N7czMRfdQJ7WxEX,hospital & health care,linkedin.com/company/ambulances-aquitaine-secours,bordeaux,ambulances aquitaine secours,nouvelle-aquitaine,1-10,
+france,,T2CVMOpB774nsPk3y8MTSw1gkgNg,hospital & health care,linkedin.com/company/becker-perrine-marie,rue-de-la-halle,becker perrine marie,grand est,1-10,
+france,,UDI84EjpHa82E20Va6S9OQaR96fj,hospital & health care,linkedin.com/company/jaming-pauline,lingolsheim,jaming pauline,grand est,1-10,
+france,,ZSBAtMhoQ5WX3TJ0uksDgAL2heWa,hospital & health care,linkedin.com/company/didier-arnaud,rue,didier arnaud,hauts-de-france,1-10,
+france,2021,Co2BpGLwFlz3uxnr3LF4wAjCU6TX,hospital & health care,linkedin.com/company/la-maison-calypso,saint-germain-en-laye,la maison calypso,île-de-france,1-10,lamaisoncalypso.com
+france,,54WousLAC9yuOWbxCQlZMw0SYpWC,hospital & health care,linkedin.com/company/mutualité-française-ardennes,bogny-sur-meuse,mutualité française ardennes,grand est,1-10,
+france,,XufjoVMuQ1biJtMbnWOB4ANMibVW,hospital & health care,linkedin.com/company/selarl-du-docteur-sayad,aulnay-sous-bois,selarl du docteur sayad,île-de-france,1-10,
+france,2022,VpPkMG42A91Bqp3TCLFsOghci4t9,hospital & health care,linkedin.com/company/altesce,saint-andré,altesce alliance libre thérapeutique et synergie corps-esprit,hauts-de-france,1-10,altesce.fr
+france,,VWfwm7ceug1LCGQHv1gHHwAXC4un,hospital & health care,linkedin.com/company/ambulances-st-jacques,nice,ambulances st jacques,provence-alpes-côte d'azur,1-10,ambulancesstjacques.fr
+france,1968,Ri3wHJoMTE0iK7NhtNTNHQGzq4be,hospital & health care,linkedin.com/company/clinique-saint-george,nice,clinique saint george,provence-alpes-côte d'azur,201-500,clinique-saint-george.com
+france,,L7w32uo62E4ZPke4nH3Uuwa4hBeK,hospital & health care,linkedin.com/company/mulhouse-pneumologie,mulhouse,mulhouse pneumologie,grand est,1-10,pneumologiemulhouse.fr
+france,,t5NK79oNpK7Q3CeOMXpmZw6f3eMA,hospital & health care,linkedin.com/company/bidal-emilie,pélissanne,bidal emilie,provence-alpes-côte d'azur,1-10,
+france,,iyR7Intf4nijYrKABbLPDw0EWuFT,hospital & health care,linkedin.com/company/berard-olivier-frederic,issoire,berard olivier frederic,auvergne-rhône-alpes,1-10,
+france,,TeSHBYoaNVMoBl0cOGiSBQzalboj,hospital & health care,linkedin.com/company/ambulances-de-la-cite,argenteuil,ambulances de la cite,île-de-france,1-10,ambulances-delacite.fr
+france,,bnn208O2EMNfv0i6MrwyHwyRIRHp,hospital & health care,linkedin.com/company/caisse-d-allocations-familiale,auxerre,caisse d allocations familiale,bourgogne-franche-comté,51-200,
+france,,FT5BF1m8o1xxwXezwNunxADXmH5t,hospital & health care,linkedin.com/company/maison-de-retraite-d'eyragues,eyragues,maison de retraite d'eyragues,provence-alpes-côte d'azur,51-200,
+france,2022,Fmhpc90DdkioeJvcbxqw8wa9qioo,hospital & health care,linkedin.com/company/telos-santé,paris,telos santé,île-de-france,11-50,telos-sante.fr
+france,,lNnqCNLLDa04YokiZgKWHApFZO0i,hospital & health care,linkedin.com/company/centre-d'imagerie-medicale-de-basse-normandie,caen,centre d'imagerie medicale de basse-normandie,normandie,1-10,
+france,2022,GCenGgpwFfjnFODEBVF1HAlYYJnJ,hospital & health care,linkedin.com/company/la-maison-des-femmes-marseille-provence,marseille,la maison des femmes marseille provence,provence-alpes-côte d'azur,1-10,
+france,,RRII8dd0fnCoUhmfFmWRjAwDGHcj,hospital & health care,linkedin.com/company/aromatherapie-par-damaris,neuilly-sur-seine,aromatherapie par damaris,île-de-france,1-10,aromatherapiepardamaris.fr
+france,2012,pR23c6ECNrAQO9f9ugP7yQ6I9NOy,hospital & health care,linkedin.com/company/omédit-bretagne,quimper,omédit bretagne,bretagne,1-10,omeditbretagne.fr
+france,,87AOpN8cuFDrPV4mOH1moQzD9SAZ,hospital & health care,linkedin.com/company/quesnot-charles,seyssins,quesnot charles,auvergne-rhône-alpes,1-10,
+france,2009,UPiKQIv58L1GCPYFxfdFcwKoPSvN,hospital & health care,linkedin.com/company/okeedoc,auch,okeedoc,occitanie,1-10,
+france,1796,zetByCBOyLednqNI3BaxxASmc0kk,hospital & health care,linkedin.com/company/hospices-civils-de-lyon,chazelles-sur-lyon,hospices civils de lyon,auvergne-rhône-alpes,10001+,chu-lyon.fr
+france,,N3wH6IZ2nBsncpo2YNrE6QLwCkaI,hospital & health care,linkedin.com/company/ambulances-plateau-du-roumois,le bosc-roger-en-roumois,ambulances plateau du roumois,normandie,1-10,
+france,,Wosnk9r06d5SauHIdfcI3QsZ4o6s,hospital & health care,linkedin.com/company/diaverum-paris,paris,diaverum paris,île-de-france,11-50,
+france,,Z6OHGElRsgB47DTPnqwkOQwMo3f8,hospital & health care,linkedin.com/company/amtech-medical-sa,sèvres,amtech medical sa,île-de-france,1-10,
+france,,l7VwcVY2zhxshafQq07ijgtligqW,hospital & health care,linkedin.com/company/bobet-flavien,champs-sur-marne,bobet flavien,île-de-france,1-10,
+france,,frxXSCu7HVRSHw8bCylCNgN50vue,hospital & health care,linkedin.com/company/ambulances-stephanaises,saint-étienne-du-rouvray,ambulances stephanaises,normandie,1-10,
+france,1917,q8J1FXYxjIYhKRmdyXifDQdp47Rp,hospital & health care,linkedin.com/company/institut-de-rééducation-fonctionnelle-pomponiana-olbia,hyères,institut de rééducation fonctionnelle pomponiana-olbia,provence-alpes-côte d'azur,201-500,salinsdebregille.net
+france,,OJwtIU9yyVkFfuIJgvqkxAPDEUc0,hospital & health care,linkedin.com/company/hospital-retirement-home,jeumont,hospital retirement home,hauts-de-france,1-10,centre-hospitalier-jeumont.business.site
+france,,dFGSiAEmiLNNBRrit1GaIA9DX7KE,hospital & health care,linkedin.com/company/centre-laser-médical-sens,sens,centre d'esthétique et de laser médical,bourgogne-franche-comté,1-10,
+france,2008,I0kpzLdKOBs6sJFL6CKdhghUu0Ec,hospital & health care,linkedin.com/company/groupe-clinipsy,chazelles-sur-lyon,groupe clinipsy,auvergne-rhône-alpes,11-50,
+france,,kpjTKE6hBkiMVe0BxJB50guqlN1h,hospital & health care,linkedin.com/company/ehpad-residence-les-chanterelles,marolles-les-braults,ehpad residence les chanterelles,pays de la loire,51-200,
+france,,BPwH1ZDFKyptSy2iBaF95gYHfXI6,hospital & health care,linkedin.com/company/cbsv,gisors,cbsv,normandie,1-10,labocbsv.fr
+france,2018,xZIv8xfmgYGYyyOLVMusgAltSxSU,hospital & health care,linkedin.com/company/la-kairos-compagnie,la seyne-sur-mer,kairos talents,provence-alpes-côte d'azur,11-50,
+france,,ka0SS1ulqwFSYSKwysCZqAVIKl6W,hospital & health care,linkedin.com/company/centre-de-la-baie,avranches,centre de la baie,normandie,11-50,centredelabaie.fr
+france,,yAJOmYg5hWOoOiExchVGiQiAKM5M,hospital & health care,linkedin.com/company/agde-imagerie-medicale,agde,agde imagerie medicale,occitanie,11-50,agdeimagerie.com
+france,,u4Er2OBn8iBIKBtw2n0JAgKLgrPT,hospital & health care,linkedin.com/company/moya-david,les pennes-mirabeau,moya david,provence-alpes-côte d'azur,1-10,
+france,,6POb8H8BfpJuWYz4IC0f3A2U2xwJ,hospital & health care,linkedin.com/company/ehpad-les-terrasses-de-la-gazeille,le monastier-sur-gazeille,ehpad les terrasses de la gazeille,auvergne-rhône-alpes,51-200,
+france,,bMBKLapWegZD6jIiCRQuagFDs8cv,hospital & health care,linkedin.com/company/klapsia-david,crécy-en-ponthieu,klapsia david,hauts-de-france,1-10,
+france,,BkuC5tl1brWnye7NZlpcpgD3Bn3H,hospital & health care,linkedin.com/company/selarl-de-jean-philippe-dupont,nice,selarl de jean-philippe dupont,provence-alpes-côte d'azur,1-10,
+france,,Ua63eYF8wSnufSKQIECXAgOrdCMc,hospital & health care,linkedin.com/company/ambulances-bienvillers,bienvillers-au-bois,ambulances bienvillers,hauts-de-france,1-10,
+france,,Dyb8L170opWPh7HcXkO8EQsCalMG,hospital & health care,linkedin.com/company/societe-d'exercice-liberal-laboratoire-val-de-garonne,langon,societe d'exercice liberal laboratoire val de garonne,nouvelle-aquitaine,11-50,laboratoire-valdegaronne.com
+france,2001,woudBKJr1gYFCP7dzc9yCw5GJbjw,hospital & health care,linkedin.com/company/association-corsaf,compiègne,corsaf l l'aide à domicile,hauts-de-france,11-50,
+france,,zxKc5WMnnnRJgKncBEDjwgr8QbG2,hospital & health care,linkedin.com/company/ehpad-victor-hugo,vienne-en-arthies,ehpad victor hugo,île-de-france,51-200,
+france,1965,2Vz27Lxz7FVZOsSu4WtLIQKC2puV,hospital & health care,linkedin.com/company/ambulances-baumann,thionville,ambulances baumann,grand est,11-50,ambulances-baumann.fr
+france,,1v7y7cHzkI74qdaWUjdtQwYAYP6G,hospital & health care,linkedin.com/company/regnault-pierre,fontenay-sous-bois,regnault pierre,île-de-france,1-10,
+france,,PNKoWfxopI8eaSCwZJgGBg8LbmMA,hospital & health care,linkedin.com/company/etiosteo,toulouse,etiosteo,occitanie,1-10,
+france,2007,qMPCVwq00B223NjHKMC8JgpXuFT8,hospital & health care,linkedin.com/company/clinique-la-pinède,saint-nauphary,clinique la pinède,occitanie,51-200,
+france,,vJUTQxZOCOLnJgR4QdTs0gPowY8i,hospital & health care,linkedin.com/company/selarl-kineciss,saint-pierre-des-corps,selarl kineciss,centre-val de loire,1-10,
+france,,k3Iu1C9tKQGhTqbZ1vUzEg4SveBj,hospital & health care,linkedin.com/company/hopitalprivedeprovence,aix-en-provence,hôpital privé de provence,provence-alpes-côte d'azur,201-500,hopital-prive-de-provence.com
+france,,IIMmQ0Ft5aGu54nNPxgFCwdQUYqp,hospital & health care,linkedin.com/company/adapei-corse-2a,saint-michel-sur-orge,adapei corse 2a,île-de-france,51-200,
+france,,HxTTiFkcseZf2fNbDd6P6QTVicTd,hospital & health care,linkedin.com/company/life-and-health-ambulance,garges-lès-gonesse,life and health ambulance,île-de-france,1-10,
+france,,YdP84ACZzIlhGZdT895OrwmwgsZp,hospital & health care,linkedin.com/company/dkpacités-à-dévoiler,meaux,dkpacités à dévoiler,île-de-france,1-10,dkpacitesadevoiler.org
+france,2021,3Xntk8NekGCTB5CTUEqPNQMGFqai,hospital & health care,linkedin.com/company/poemana-sante,paris,poemana,île-de-france,1-10,poemana.fr
+france,,47L9oOCxboHGbC5Mak2NAQ3Saozl,hospital & health care,linkedin.com/company/cabinet-josselin,paris,cabinet josselin,île-de-france,1-10,
+france,,W7ORUqjP1wsG9FB36dWA3wQAtq5v,hospital & health care,linkedin.com/company/mapa-claires-fontaines-st-vulbas,saint-vulbas,mapa claires fontaines st vulbas,auvergne-rhône-alpes,11-50,
+france,2022,CSlLZrxdmplQiwGCMssP7QjVEva8,hospital & health care,linkedin.com/company/asso-road,chazelles-sur-lyon,regroupement des opticiens à domicile (road),auvergne-rhône-alpes,1-10,assoroad.org
+france,,msTWQSEz1CSuQ769YQ1P3gFbkkSd,hospital & health care,linkedin.com/company/clinique-de-villecresnes,villecresnes,clinique de villecresnes,île-de-france,51-200,clinique-villecresnes.com
+france,,6hmFh4oguRJPipWDmMwN7QiWwoeV,hospital & health care,linkedin.com/company/merviel-clement,saint-alban,merviel clement,occitanie,1-10,
+france,,X3voCnbwqlMLHUaWiqiBUwdz0tlD,hospital & health care,linkedin.com/company/el-hamdania-soumia,bourgoin-jallieu,el hamdania soumia,auvergne-rhône-alpes,1-10,
+france,,scCu7rfWkZPYL4j5veOXrQOEUuEe,hospital & health care,linkedin.com/company/centre-jean-bernard,le mans,centre jean bernard,pays de la loire,201-500,i-l-c.fr
+france,,MXCFvFW2wdrMcCof20MIOQwTfPBM,hospital & health care,linkedin.com/company/marchand-coline,port-saint-louis-du-rhône,marchand coline,provence-alpes-côte d'azur,1-10,
+france,,R2XMOPkZ7zWhuLCAM2oSMAMQfR0p,hospital & health care,linkedin.com/company/ambulance-hubert-sarl,nesles-la-vallée,ambulance hubert sarl,île-de-france,1-10,
+france,2023,0YaBlSvHJCjMn2r9yPfqawsVV3s5,hospital & health care,linkedin.com/company/cardidom,nice,cardidom,provence-alpes-côte d'azur,1-10,cardidom.com
+france,,Vgn3EQem36gGl7z8s8eGJAazbdQ0,hospital & health care,linkedin.com/company/ce-sainte-marie-le-puy,le puy-en-velay,ce sainte marie le puy,auvergne-rhône-alpes,1-10,cesaintemarielepuy.fr
+france,,gTAOwtIrF5916wsrbefhiAxwXwWw,hospital & health care,linkedin.com/company/ambulances-la-spinalienne,golbey,ambulances la spinalienne,grand est,11-50,
+france,,KtS22K9ONcvm3CSAJBE5Gg4t0Rdj,hospital & health care,linkedin.com/company/clinique-sainte-therese,le beausset,clinique sainte therese,provence-alpes-côte d'azur,1-10,cliniquesaintetherese.fr
+france,,0BkOB4aSHSm0wZyEKqZwRg90tkvF,hospital & health care,linkedin.com/company/lunaissance,limeil-brévannes,lunaissance,île-de-france,1-10,lunaissance.fr
+france,,nkohF6CLP1xuJpHb8wVdqgu0hIQw,hospital & health care,linkedin.com/company/clinique-louis-pasteur,essey-lès-nancy,clinique louis pasteur,grand est,201-500,clinique-louispasteur.com
+france,1987,S0haDA6W1loDYzn9jPt7zQsGYLvs,hospital & health care,linkedin.com/company/cimof-centre-d-imagerie-moléculaire-et-fonctionnelle,toulouse,cimof (centre d'imagerie moléculaire et fonctionnelle),occitanie,51-200,tep-toulouse.fr
+france,,ySgBsL7JDxMoIBxCZW1NUQiL0qdO,hospital & health care,linkedin.com/company/labo-d-analyses-medicales-drouillard,montpellier,labo d analyses medicales drouillard,occitanie,1-10,
+france,,bES9VQG3cuKlais9BPZJFwZ2a9bv,hospital & health care,linkedin.com/company/ambulances-cumin-sarl,saint-étienne-de-saint-geoirs,ambulances cumin sarl,auvergne-rhône-alpes,11-50,
+france,,1CCKzc4bO5EnMijBTVVDjA0AyPh5,hospital & health care,linkedin.com/company/buis-les-baronnies,buis-les-baronnies,buis les baronnies,auvergne-rhône-alpes,1-10,buislesbaronnies.fr
+france,,4W9CdrVNquC557PBv9qHfwJPMiFO,hospital & health care,linkedin.com/company/selarl-laboratoire-jean-boyer-et-associes,saint-étienne-du-rouvray,selarl laboratoire jean boyer et associes,normandie,11-50,
+france,,nlf7y7BuytG92IAFjBuVNwWgJtMS,hospital & health care,linkedin.com/company/fnesaa,maizeroy,fnesaa,grand est,11-50,fnesaa.com
+france,,6X1HkJcTMxB3QmtIIpJ7agUPRUZL,hospital & health care,linkedin.com/company/ehpad-les-champs-fleuris,anglards-de-salers,ehpad les champs fleuris,auvergne-rhône-alpes,11-50,ehpad-cantal-ally.fr
+france,,c84AEj0RNjKrEGLm8pXPNwxZPH71,hospital & health care,linkedin.com/company/centre-laser-esthetique,la roche-posay,centre laser esthetique,nouvelle-aquitaine,1-10,
+france,,y14afqnM7CipxIxTxZ03tw76RXuf,hospital & health care,linkedin.com/company/ambulances-prunier,flers,ambulances prunier,hauts-de-france,1-10,ambulancesprunier.fr
+france,,X0yjVUT1sNpCai2BARlVsw3WNeke,hospital & health care,linkedin.com/company/sud-loire-biologie,saint-sébastien-sur-loire,sud loire biologie,pays de la loire,1-10,
+france,,c2yFORs3gMlcCJHbeo4NsAAjEb53,hospital & health care,linkedin.com/company/polyclinique-de-deauville,deauville-les-bains,hôpital privé du pays d'auge,normandie,201-500,
+france,,P2OrvOXFCqIXQ2Pue7PiRg1073gr,hospital & health care,linkedin.com/company/maison-paramédicale,rennes,maison paramédicale,bretagne,1-10,maisonparamedicale.fr
+france,,SNz09E5bKdjEeAg6NkDJgwLaCFUf,hospital & health care,linkedin.com/company/ambulance-stehelin,eysines,ambulance stehelin,nouvelle-aquitaine,1-10,
+france,,rP7k8104MnAgagzUAnoW3wb1LsET,hospital & health care,linkedin.com/company/logpateth,roissy-en-brie,logpateth,île-de-france,1-10,logpateth.fr
+france,,PY0ppY4GmDWhfZG5VMlRvwuWZNuf,hospital & health care,linkedin.com/company/ehpad-intercommunal-semblacay-la-membrolle,semblançay,ehpad intercommunal semblacay-la membrolle,centre-val de loire,51-200,
+france,,pjooWGKzCrUdsKxVIltBLgzoCFjo,hospital & health care,linkedin.com/company/espace-kine-forme-moliere,montluçon,espace kine-forme moliere,auvergne-rhône-alpes,1-10,
+france,2023,KGciCOqBAd87wEkFdyTt2w6ihkqP,hospital & health care,linkedin.com/company/ims-lille,marcq-en-baroeul,ims - institut médical saint-maur,hauts-de-france,11-50,ims-lille.fr
+france,,mvoBUqVywWHBFNaa1Lpa0wuo4ma4,hospital & health care,linkedin.com/company/la-varoise,hyères,la varoise,provence-alpes-côte d'azur,11-50,
+france,,I4cPaP61nqAIjFNqo5C2Swd2m6Xp,hospital & health care,linkedin.com/company/ambulances-nicolas,vieille-église,ambulances nicolas,hauts-de-france,1-10,
+france,1992,ATXibZsRjqDLpg9PvdtBKQhMqgaW,hospital & health care,linkedin.com/company/centre-hospitalier-de-l-arrondissement-de-montreuil-s-mer,rang-du-fliers,cham : centre hospitalier de l'arrondissement de montreuil,hauts-de-france,1001-5000,ch-montreuil.fr
+france,,sgJjr1yF29WzqV0JTyBDmAk8OY1l,hospital & health care,linkedin.com/company/centre-cottage-parc,sainte-foy-lès-lyon,centre cottage parc,auvergne-rhône-alpes,1-10,
+france,,gRFoVLR2iMzCSae9IBjangQhNcPz,hospital & health care,linkedin.com/company/résidence-le-château,montéléger,résidence le château,auvergne-rhône-alpes,1-10,residencechateau.fr
+france,,nPaiOw3DiKoq8t5TSKjC9gnn4gnN,hospital & health care,linkedin.com/company/centre-de-reeducation-et-de-readaptation-fonctionnelle-de-saint-blancard,saint-blancard,centre de reeducation et de readaptation fonctionnelle de saint blancard,occitanie,51-200,
+france,2005,93WIk12W0J3FsGOY5JYtGw2r5VuE,hospital & health care,linkedin.com/company/residalya,paris,residalya,île-de-france,1001-5000,residalya.com
+france,1977,umYtbEvrhgXXgtzVU6egRwEK380v,hospital & health care,linkedin.com/company/clinique-smr-valdegour-groupe-elsan,nimes,clinique valdegour - elsan,occitanie,51-200,
+france,,ZbMyumDy2qeXaBmZXhrb5AsaTEJS,hospital & health care,linkedin.com/company/le-mont-d-azur,nans-les-pins,le mont d azur,provence-alpes-côte d'azur,1-10,
+france,,ms1CFEzf0O35LN0HEyRfZAxj8ged,hospital & health care,linkedin.com/company/adovic-proxim-services,pau,adovic proxim'services,nouvelle-aquitaine,51-200,
+france,2022,mVXEnuz42r41eLC4v3efDQfksJ07,hospital & health care,linkedin.com/company/hypnocare-solution,chevreuse,hypnocare,île-de-france,1-10,hypnocare-solution.com
+france,,gzxYr26akBAtkzJ1DlYhwA7coGX5,hospital & health care,linkedin.com/company/payelleville-louise,comines,payelleville louise,hauts-de-france,1-10,
+france,,QSOIbPfirVCSoiWm2Eqv7gc9paBh,hospital & health care,linkedin.com/company/diane-ambulance,sorel-moussel,diane ambulance,centre-val de loire,1-10,
+france,,UYkXE05iRoW2ksvsWL5wNwxKozhu,hospital & health care,linkedin.com/company/ambulances-de-la-porte-des-flandres,laventie,ambulances de la porte des flandres,hauts-de-france,1-10,
+france,2019,XUaBAf45clf0N8lnuViBrw3ujphk,hospital & health care,linkedin.com/company/institut-de-réadaptation-du-cap-horn,landerneau,institut de réadaptation du cap horn,bretagne,51-200,
+france,,K6BrF0Qk3k3sdF6C6RgngQ5EkuUy,hospital & health care,linkedin.com/company/ambulances-vernoliennes,saint-denis,ambulances vernoliennes,île-de-france,11-50,
+france,,rX50O8tqW6GeDyRq3wFgVg4tjM1u,hospital & health care,linkedin.com/company/hypnose-pour-moi,cox,hypnose pour moi,occitanie,1-10,hypnosepourmoi.com
+france,,BvhbvqyVddFaUcz8fEJ40gLZyI2q,hospital & health care,linkedin.com/company/synlab-charentes,saint-jean-d’angély,synlab charentes,nouvelle-aquitaine,51-200,
+france,,Jz4GYjXv0ekjkWtP0j7shAqAMDU0,hospital & health care,linkedin.com/company/ass-des-residences-pour-personnes-agees,paris,ass des residences pour personnes agees,île-de-france,1-10,
+france,,04WyWEpleJOkPZU5dVFebgsdFHFB,hospital & health care,linkedin.com/company/sophrologia,mulhouse,sophrologia,grand est,1-10,
+france,,7RmADgSwhECQIjNuPT3nuQiiSOoj,hospital & health care,linkedin.com/company/g3-ambulances,l’atelier,g3 ambulances,bourgogne-franche-comté,11-50,
+france,,X2u6pgDjzaEOJ8RZXL9MGQ5KjovJ,hospital & health care,linkedin.com/company/ehpad-repos-et-santé,sauveterre-de-rouergue,ehpad repos et santé,occitanie,11-50,ehpad-repos-sante.fr
+france,,VCAvaGU9lv5Ie3TfoBzFVgSqGPGz,hospital & health care,linkedin.com/company/le-mediterranee-clinique-de-soins-de-suite-du-castellas,la roque-d’anthéron,le mediterranee clinique de soins de suite du castellas,provence-alpes-côte d'azur,51-200,
+france,,DQZufq7rlzcoQYWTtrsCrQ83VZNE,hospital & health care,linkedin.com/company/les-amis-de-karen-association,paris,les amis de karen association,île-de-france,51-200,
+france,,oIzVqkhNCkFrmxHqiy8DswBrNips,hospital & health care,linkedin.com/company/altitude-ambulances,nice,altitude ambulances,provence-alpes-côte d'azur,1-10,
+france,,I6OCbrHv7aQhYfJs9glo4QA0Wl8q,hospital & health care,linkedin.com/company/ambulances-bazetoises,rue du rosult,ambulances bazetoises,hauts-de-france,1-10,
+france,1999,7Zas6k5j7fRv0dcDtJcC5AgQrHKR,hospital & health care,linkedin.com/company/institut-medicalise-de-mar-vivo,la seyne-sur-mer,institut médicalisé de mar vivo,provence-alpes-côte d'azur,51-200,
+france,,MVIv7qIjLdDbyxvbU0E4fAVd9MIz,hospital & health care,linkedin.com/company/centre-d'hemodialyse-mg-durieux,paul,centre d'hemodialyse mg durieux,bretagne,1-10,
+france,,IZy8vuqMlvgJRwhq5FZVjgq4kB6q,hospital & health care,linkedin.com/company/andarelli,montélimar,andarelli,auvergne-rhône-alpes,1-10,
+france,,ETBCfNCrpDyAOveyunsDlwAFXpKV,hospital & health care,linkedin.com/company/capio-polyclinique-du-parc,toulouse,capio polyclinique du parc,occitanie,51-200,
+france,,G7o2RQg93KURv2DhQGVOogfZEMcG,hospital & health care,linkedin.com/company/guilhem-claire-dominique,castelnaudary,guilhem claire dominique,occitanie,1-10,
+france,,h1bi6f3CPg1N8L1VI6Fh0ALdafYk,hospital & health care,linkedin.com/company/association-gestion-residence-d'argenson,bollwiller,association gestion residence d'argenson,grand est,51-200,
+france,,4stFHkUedTkOhsZSBoxk3ABQD2Vp,hospital & health care,linkedin.com/company/résidence-saint-clair,saint-zacharie,résidence saint clair,provence-alpes-côte d'azur,1-10,residencestclair.com
+france,,X5O2CMpVIxKWvGzJ6Jxc9QMdtnXv,hospital & health care,linkedin.com/company/france-ambulance,tourrettes,france ambulance,provence-alpes-côte d'azur,1-10,france-ambulances.net
+france,2018,y8pAOetoM5bdRUqtuh7Bxw0iDxRi,hospital & health care,linkedin.com/company/coordinov,osny,coordinov - dac santé val-d'oise ouest,île-de-france,11-50,coordinov.com
+france,2010,ADaBQ7JO8j1zed6iKwgoQgpm2kNv,hospital & health care,linkedin.com/company/hstv,lamballe,hospitalité saint-thomas de villeneuve,bretagne,1001-5000,hstv.fr
+france,2019,GXGH2V1SgSbDkfRyCIJngwgHNwur,hospital & health care,linkedin.com/company/centre-de-gerontologie-les-abondances-le-rouvray,boulogne-billancourt,centre de gerontologie les abondances - le rouvray,île-de-france,201-500,lesabondances.fr
+france,,nuWm4vNCgC10In7ilum6xQcQ1Ntg,hospital & health care,linkedin.com/company/ehpad-intercommunal-de-mens,mens,ehpad intercommunal de mens,auvergne-rhône-alpes,11-50,
+france,,4ds0oa8bKCjZSNXD3PlCTAGJw4VX,hospital & health care,linkedin.com/company/ambulances-mazer,bourges,ambulances mazer,centre-val de loire,1-10,
+france,,6VlSrLC6f9IF7XALZT89RASXH17j,hospital & health care,linkedin.com/company/olivier-plubeau,champagnole,olivier plubeau,bourgogne-franche-comté,1-10,
+france,,CFYBOfkCdBrir1uDw7AaXQ7Uuwoy,hospital & health care,linkedin.com/company/ehpad-publique,villeneuve-de-marsan,ehpad publique,nouvelle-aquitaine,51-200,
+france,,jkOVwFtP06cdV8RCypsyxgsZjh0w,hospital & health care,linkedin.com/company/hypnose-humaniste,orvilliers,hypnose humaniste,île-de-france,1-10,hypnosehumaniste.org
+france,,CoxbQPgvSCw6l4jxfeCEAgqrKAPw,hospital & health care,linkedin.com/company/ambulances-clouet-hubert---nom-commercial-ambulances-clouet-hubert,montfort-sur-meu,ambulances clouet-hubert - nom commercial : ambulances clouet-hubert,bretagne,1-10,
+france,,YUqToXL7RHFNb60NLXqTXAumdaFv,hospital & health care,linkedin.com/company/ambulances-de-crepy,crépy-en-valois,ambulances de crepy,hauts-de-france,1-10,
+france,,T6Frra9Z5IKEInICpmlzIgwrclsT,hospital & health care,linkedin.com/company/cerballiance-pyrenees,tarbes,cerballiance pyrenees,occitanie,51-200,
+france,,KcRo53D6SF0E38Y5L6DK7QlVwDca,hospital & health care,linkedin.com/company/cerballiance-bourgogne,sennecey-le-grand,cerballiance bourgogne,bourgogne-franche-comté,51-200,
+france,,yShVO2LfcDkB6JsqIwT9yAGdjuFF,hospital & health care,linkedin.com/company/selarl-imeel-28,épernon,selarl imeel 28,centre-val de loire,1-10,
+france,1949,9hKZVDi1FzdPKjHNpTt00AzL351J,hospital & health care,linkedin.com/company/institut-robert-merle-d-aubigné,valenton,institut robert merle d'aubigné,île-de-france,201-500,irma-valenton.fr
+france,,N2eKQXQz3A3KU3cMURfa4QS5gYCu,hospital & health care,linkedin.com/company/centre-hospitalier-de-gonesse,gonesse,centre hospitalier de gonesse,île-de-france,1001-5000,hopital-de-gonesse.fr
+france,,ZyIjJVURdlcxIx6XFlHqVwp5rOD5,hospital & health care,linkedin.com/company/huhm-aphp,créteil,hôpitaux universitaires henri mondor ap-hp,île-de-france,5001-10000,
+france,,v3Duc5yMeIKXJzSIltpbCg8MrrKP,hospital & health care,linkedin.com/company/cabinet-d'orthoptistes-y-durieux,marseille-en-beauvaisis,cabinet d'orthoptistes y durieux,hauts-de-france,1-10,
+france,,omJwWhgBQ3ZLKsx6UtwCEQCwypJw,hospital & health care,linkedin.com/company/biort-sel,évry,biort sel,île-de-france,1-10,
+france,,tsRCUSIOnv9aVLJQ5eJwxQNZJcRY,hospital & health care,linkedin.com/company/houilles-ambulances,houilles,houilles ambulances,île-de-france,1-10,
+france,,px7G4g994r6uEgm6RKg6WAhw7hdf,hospital & health care,linkedin.com/company/jacquelet-tiphanie,draveil,jacquelet tiphanie,île-de-france,1-10,
+france,,F2zTdatfSMcH7A9zSd3c3QqMlcWU,hospital & health care,linkedin.com/company/résidence-alphonse-daudet,clamart,résidence alphonse daudet,île-de-france,1-10,residencealphonsedaudet.com
+france,,yz6k8w8nXlBqdz5ddR0M7gQZ909P,hospital & health care,linkedin.com/company/corhesan,marseille,corhesan,provence-alpes-côte d'azur,11-50,
+france,,JxXXbIXshHmys7nMEhCpHQqaL3At,hospital & health care,linkedin.com/company/association-village-terre-negre,bordeaux,association village terre-negre,nouvelle-aquitaine,201-500,terre-negre.fr
+france,2018,9EN48wa4zmeL4E9Zj0vhzQltNAKB,hospital & health care,linkedin.com/company/fonds-de-dotation-du-centre-hospitalier-d-arcachon,la teste-de-buch,fonds de dotation du centre hospitalier d'arcachon,nouvelle-aquitaine,1-10,fondsdedotation.wordpress.com
+france,,mCkJlVSJeZESgBuk95ZBjACOIbHC,hospital & health care,linkedin.com/company/ambulance-du-labourd-sarl-societe-d'exploitation-,hasparren,ambulance du labourd sarl (societe d'exploitation),nouvelle-aquitaine,1-10,
+france,,WCEzGukKpzjANR8YHZgWWgW0aN5J,hospital & health care,linkedin.com/company/ehpad-al-cartero,salies-de-béarn,ehpad al cartero,nouvelle-aquitaine,1-10,ehpadalcartero.wordpress.com
+france,,XDBzkX1HkZhUJPhjMRF1jQLob5V1,hospital & health care,linkedin.com/company/ambulances-de-l'ouest,saint-cyr-l’école,ambulances de l'ouest,île-de-france,11-50,
